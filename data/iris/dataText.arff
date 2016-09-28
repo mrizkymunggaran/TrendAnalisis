@@ -1,0 +1,33 @@
+@relation document
+
+@attribute text string
+
+@data
+'{banjir,banjir,banjir,banjir,banjir,banjir,mati,rendam,rendam,rendam,rendam,rendam,terisolir,aktivitas,air,air,air,rumah,korban}'
+'{banjir,banjir,banjir,banjir,banjir,banjir,banjir,pukul,genang,genang,tanggul,tanggul,tanggul,tanggul,jebol,jebol,rumah,korban,ungsi,ungsi,ungsi,ungsi,ungsi,ungsi,ungsi,ungsi,ungsi,ungsi}'
+'{banjir,banjir,banjir,banjir,genang,rendam,rendam,rendam,deras,motor,air}'
+'{pukul,pukul,pukul,erupsi,abu,vulkanik,keras}'
+'{amplitudo,abu,abu,abu,aktivitas,aktivitas,vulkanik,vulkanik,angin,tremor,asap,asap}'
+'{rekam,rekam,rekam,pukul,pukul,krisis,bumi,bumi,gunung,gunung,aktivitas,skala,evakuasi,gempa,gempa,gempa,gempa,gempa,gempa,amplituda,amplituda,ungsi,ungsi}'
+'{gas,gas,skala,radius,ambruk,gempa,gempa,gempa,gempa,gempa,gempa,gempa,gempa,gempa,gempa,gempa,tektonik,rumah,korban,racun,racun,ungsi,ungsi,ungsi,ungsi,ungsi,ungsi}'
+'{pukul,getar,getar,guncang,bumi,magnitude,gempa,gempa,gempa,rumah}'
+'{pukul,bumi,gempa,gempa,gempa,rumah,tsunami}'
+'{pukul,rusak,getar,guncang,bumi,skala,richter,gempa,gempa,gempa}'
+'{geng,geng,geng,geng,geng,geng,geng,geng,geng,bom,serang,bakar,kasus,kasus,molotov,bukti,bukti,motor,motor,motor,motor,motor,motor,motor,motor,motor,motor,motor,kriminal,kriminal,keras}'
+'{geng,geng,geng,geng,geng,geng,sita,sita,motor,motor,motor,motor,motor,motor,motor,motor,langgar,air,jahat,jahat,razia,gerombol}'
+'{geng,geng,geng,geng,geng,geng,motor,motor,motor,motor,motor,motor,razia}'
+'{bakar,bakar,bakar,bakar,bakar,bakar,elektronik,elektronik,padam,padam,padam,padam,padam,hangus,angin,api,api,api,api,api,roboh,korban}'
+'{pukul,pukul,pukul,pukul,bakar,bakar,bakar,bakar,bakar,bakar,bakar,bakar,bakar,bakar,bakar,api,api,air,cari,korban,korban,pasar,pasar,pasar}'
+'{bakar,bakar,bakar,cuaca,gunung,padam,padam,padam,padam,lahan,angin,angin,api,api,api,api,air,air}'
+'{pukul,bakar,bakar,bakar,bakar,bakar,puing,padam,ledak,api,api,api,api,air,korban}'
+'{ekstasi,sabu,sindikat,sindikat,sindikat,otopsi,butir,rumah,jenazah,jenazah,mati,narkoba,narkoba,narkoba,tahan,pil,bukti,mayat,tembak,tembak,tembak}'
+'{pil,pil,pil,pil,pil,pil,selundup,selundup,kurir,bukti,bukti,butir,butir,butir,butir,obat,obat,uang}'
+'{pukul,larang,larang,narkoba,sita,pistol,obat,obat,geledah,rokok,ganja,ganja,cari}'
+'{kurir,sabu,sabu,sabu,sabu,hadang,geledah,ringkus,psikotropika,jatuh,bukti,bukti,motor,motor,paket,paket,paket,razia,razia,razia,razia,ancam,ganja}'
+'{haram,residivis,ekstasi,ekstasi,edar,edar,edar,sabu,sabu,sabu,sabu,sabu,modus,modus,butir,butir,geledah,rokok,pipet,narkotika,narkotika,pukul,narkoba,narkoba,narkoba,narkoba,narkoba,narkoba,jual,pil,pil,kasus,kasus,kasus,bong,bukti,bukti,paket,ancam}'
+'{jual,jual,edar,kejar,gerak-gerik,paket,tipu,tipu,geledah,gelap,gelap,ringkus,cari,ganja,ganja,ganja,ganja,ganja,ganja}'
+'{tabrak,tabrak,pukul,jatuh,jatuh,abu,bukti,sabu,sabu,motor,motor,tembak,tembak,geledah,ancam,razia,razia}'
+'{mati,bakar,bakar,penjara,psikologi,psikologi,kasus,kasus,kasus,kasus,kasus,psikolog,mayat,mayat,bunuh,bunuh,bunuh,bunuh,bunuh,perkosa,perkosa,perkosa,perkosa,hilang,hilang,korban,korban,korban,alkohol}'
+'{penjara,serang,kejar,otopsi,bacok,pisau,hilang,pukul,pukul,pukul,pukul,pukul,kasus,kasus,keroyok,keroyok,bukti,bukti,bunuh,bunuh,bunuh,bunuh,bunuh,ancam,korban,korban,korban,korban,korban,korban,korban,tusuk,kelompok,kelompok,kelompok,kelompok,kelompok,aniaya,buruh}'
+'{pukul,pukul,bukti,bunuh,bunuh,bunuh,muntah,muntah,rumah,rumah,rumah,rumah,rumah,jenazah,jenazah,jenazah,jenazah,jenazah,jenazah,korban,korban,korban,korban,racun,racun}'
+'{bunuh,kejar,nyawa,hilang,cari,cari,rumah,korban,korban,korban,korban,aniaya,aniaya}'

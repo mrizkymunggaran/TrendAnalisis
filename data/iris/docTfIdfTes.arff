@@ -1,0 +1,142 @@
+@relation 'document-weka.filters.unsupervised.attribute.StringToWordVector-R-W1000-prune-rate-1.0-C-T-N0-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r \\t.,;:\\\'\\\"()?!{}\"-weka.filters.unsupervised.attribute.StringToWordVector-R-W1000-prune-rate-1.0-C-T-N0-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r \\t.,;:\\\'\\\"()?!{}\"-weka.filters.unsupervised.attribute.StringToWordVector-R-V-W1000-prune-rate-1.0-C-T-N0-L-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r \\t.,;:\\\'\\\"()?!{}\"'
+
+@attribute abu numeric
+@attribute air numeric
+@attribute aktivitas numeric
+@attribute alkohol numeric
+@attribute ambruk numeric
+@attribute amplituda numeric
+@attribute amplitudo numeric
+@attribute ancam numeric
+@attribute angin numeric
+@attribute aniaya numeric
+@attribute api numeric
+@attribute asap numeric
+@attribute bacok numeric
+@attribute bakar numeric
+@attribute banjir numeric
+@attribute bom numeric
+@attribute bong numeric
+@attribute bukti numeric
+@attribute bumi numeric
+@attribute bunuh numeric
+@attribute buruh numeric
+@attribute butir numeric
+@attribute deras numeric
+@attribute edar numeric
+@attribute ekstasi numeric
+@attribute elektronik numeric
+@attribute erupsi numeric
+@attribute ganja numeric
+@attribute gas numeric
+@attribute gelap numeric
+@attribute geledah numeric
+@attribute gempa numeric
+@attribute genang numeric
+@attribute geng numeric
+@attribute gerak-gerik numeric
+@attribute gerombol numeric
+@attribute getar numeric
+@attribute guncang numeric
+@attribute hadang numeric
+@attribute hangus numeric
+@attribute haram numeric
+@attribute hilang numeric
+@attribute jahat numeric
+@attribute jebol numeric
+@attribute jenazah numeric
+@attribute jual numeric
+@attribute kejar numeric
+@attribute kelompok numeric
+@attribute keras numeric
+@attribute korban numeric
+@attribute kriminal numeric
+@attribute krisis numeric
+@attribute kurir numeric
+@attribute lahan numeric
+@attribute langgar numeric
+@attribute larang numeric
+@attribute magnitude numeric
+@attribute mati numeric
+@attribute mayat numeric
+@attribute modus numeric
+@attribute molotov numeric
+@attribute motor numeric
+@attribute muntah numeric
+@attribute narkoba numeric
+@attribute nyawa numeric
+@attribute obat numeric
+@attribute otopsi numeric
+@attribute padam numeric
+@attribute paket numeric
+@attribute pelaku numeric
+@attribute penjara numeric
+@attribute perkosa numeric
+@attribute pil numeric
+@attribute pipet numeric
+@attribute pisau numeric
+@attribute pistol numeric
+@attribute psikolog numeric
+@attribute psikologi numeric
+@attribute psikotropika numeric
+@attribute puing numeric
+@attribute pukul numeric
+@attribute racun numeric
+@attribute radius numeric
+@attribute razia numeric
+@attribute rekam numeric
+@attribute rendam numeric
+@attribute residivis numeric
+@attribute richter numeric
+@attribute ringkus numeric
+@attribute rokok numeric
+@attribute rumah numeric
+@attribute sabu numeric
+@attribute selundup numeric
+@attribute serang numeric
+@attribute sindikat numeric
+@attribute sita numeric
+@attribute skala numeric
+@attribute tabrak numeric
+@attribute tahan numeric
+@attribute tangkap numeric
+@attribute tektonik numeric
+@attribute tembak numeric
+@attribute terisolir numeric
+@attribute tipu numeric
+@attribute tremor numeric
+@attribute tsunami numeric
+@attribute tusuk numeric
+@attribute uang numeric
+@attribute ungsi numeric
+@attribute vulkanik numeric
+
+@data
+{1 1.386294,2 0.693147,14 1.94591,49 0.693147,57 0.693147,85 1.791759,90 0.693147,102 0.693147}
+{14 2.079442,32 1.098612,43 1.098612,49 0.693147,80 0.693147,90 0.693147,108 2.397895}
+{1 0.693147,14 1.609438,22 0.693147,32 0.693147,61 0.693147,85 1.386294}
+{0 0.693147,26 0.693147,48 0.693147,80 1.386294,109 0.693147}
+{0 1.386294,2 1.098612,6 0.693147,8 0.693147,11 1.098612,104 0.693147,109 1.098612}
+{2 0.693147,5 1.098612,18 1.098612,31 1.94591,51 0.693147,80 1.098612,84 1.386294,96 0.693147,108 1.098612}
+{4 0.693147,28 1.098612,31 2.484907,49 0.693147,81 1.098612,82 0.693147,90 0.693147,96 0.693147,100 0.693147,108 1.94591}
+{18 0.693147,31 1.386294,36 1.098612,37 0.693147,56 0.693147,80 0.693147,90 0.693147}
+{18 0.693147,31 1.386294,80 0.693147,90 0.693147,105 0.693147}
+{18 0.693147,31 1.386294,36 0.693147,37 0.693147,80 0.693147,87 0.693147,96 0.693147}
+{13 0.693147,15 0.693147,17 1.098612,33 2.302585,48 0.693147,50 1.098612,60 0.693147,61 2.484907,69 0.693147,93 0.693147,99 1.098612}
+{33 1.94591,35 0.693147,42 1.098612,54 0.693147,61 2.197225,83 0.693147,95 1.098612}
+{33 1.94591,61 1.94591,83 0.693147,99 1.098612}
+{8 0.693147,10 1.791759,13 1.94591,25 1.098612,39 0.693147,49 0.693147,67 1.791759}
+{1 0.693147,10 1.098612,13 2.484907,49 1.098612,80 1.609438}
+{1 1.098612,8 1.098612,10 1.609438,13 1.386294,53 0.693147,67 1.609438}
+{1 0.693147,10 1.609438,13 1.791759,49 0.693147,67 0.693147,79 0.693147,80 0.693147}
+{17 0.693147,21 0.693147,24 0.693147,44 1.098612,57 0.693147,66 0.693147,72 0.693147,91 0.693147,94 1.386294,98 0.693147,99 1.098612,101 1.386294}
+{17 1.098612,21 1.609438,52 0.693147,65 1.098612,72 1.94591,92 1.098612,107 0.693147}
+{27 1.098612,30 0.693147,55 1.098612,63 0.693147,65 1.098612,75 0.693147,80 0.693147,95 0.693147,99 0.693147}
+{7 0.693147,17 1.098612,27 0.693147,30 0.693147,38 0.693147,52 0.693147,61 1.098612,68 1.386294,69 1.609438,78 0.693147,83 1.609438,88 0.693147,91 1.609438}
+{7 0.693147,16 0.693147,17 1.098612,21 1.098612,23 1.386294,24 1.098612,30 0.693147,40 0.693147,45 0.693147,59 1.098612,68 0.693147,69 1.609438,72 1.098612,73 0.693147,80 0.693147,86 0.693147,89 0.693147,91 1.791759,99 1.098612}
+{23 0.693147,27 1.94591,29 1.098612,30 0.693147,34 0.693147,45 1.098612,46 0.693147,68 0.693147,88 0.693147,99 0.693147,103 1.098612}
+{0 0.693147,7 0.693147,17 0.693147,30 0.693147,61 0.693147,69 1.609438,80 0.693147,83 1.098612,91 1.098612,97 1.098612,101 1.098612}
+{3 0.693147,13 1.098612,19 1.791759,41 1.098612,49 1.386294,57 0.693147,58 1.098612,69 2.079442,70 0.693147,71 1.609438,76 0.693147,77 1.098612,99 1.098612}
+{7 0.693147,9 0.693147,12 0.693147,17 1.098612,19 1.791759,20 0.693147,41 0.693147,46 0.693147,47 1.791759,49 2.079442,66 0.693147,70 0.693147,74 0.693147,80 1.791759,93 0.693147,99 0.693147,106 0.693147}
+{17 0.693147,19 1.386294,44 1.94591,49 1.609438,62 1.098612,80 1.098612,81 1.098612}
+{9 1.098612,19 0.693147,41 0.693147,46 0.693147,49 1.609438,64 0.693147,69 0.693147}

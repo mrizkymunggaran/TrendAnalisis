@@ -1,0 +1,19 @@
+@relation 'TFIDF-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.NominalToBinary-Rfirst-last-weka.filters.unsupervised.attribute.Standardize_principal components-weka.filters.unsupervised.attribute.Remove-V-R1-6'
+
+@attribute -0.139turangga... numeric
+@attribute 0.125wita... numeric
+@attribute -0.183pria... numeric
+@attribute -0.17jondul... numeric
+@attribute -0.218korban... numeric
+@attribute 0.246maris... numeric
+
+@data
+1.230269,-2.794098,4.15148,5.64631,1.822197,-2.813018
+1.230269,-2.794098,4.15148,5.64631,1.822197,-2.813018
+0.769557,-4.829311,3.907459,-10.254524,4.35152,-0.579951
+-8.478461,5.358191,-0.759237,-0.515868,0.050848,-0.908427
+-8.478461,5.358191,-0.759237,-0.515868,0.050848,-0.908427
+1.419357,-5.301035,-11.761364,0.952104,2.359356,-0.741636
+1.057133,-3.89493,0.43309,-1.947588,-10.901992,-1.027187
+-0.021826,-1.133514,1.50817,2.230491,0.337386,10.294944
+11.272163,10.030606,-0.871843,-1.241366,0.107641,-0.503281

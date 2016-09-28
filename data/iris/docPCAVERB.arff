@@ -1,0 +1,18 @@
+@relation 'TFIDF-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.NominalToBinary-Rfirst-last-weka.filters.unsupervised.attribute.Standardize_principal components-weka.filters.unsupervised.attribute.Remove-V-R1-5'
+
+@attribute '0.09 mobil...' numeric
+@attribute -0.088dibawa... numeric
+@attribute 0.086bernama... numeric
+@attribute 0.094pekanbaru... numeric
+@attribute 0.093ditangkap... numeric
+
+@data
+-3.384278,-11.173033,8.422243,-5.431835,2.366595
+-3.384278,-11.173033,8.422243,-5.431835,2.366595
+12.030963,15.761042,13.070081,-4.214034,0.945385
+-11.494154,7.789759,-6.437178,-4.161188,-0.084293
+-11.494154,7.789759,-6.437178,-4.161188,-0.084293
+4.506293,-0.888996,-5.603245,12.71523,17.066796
+-0.90372,-1.289673,2.960186,15.597026,-14.724276
+-0.982441,-1.219925,0.174912,3.153021,-1.933738
+15.105768,-5.5959,-14.572063,-8.065198,-5.918772

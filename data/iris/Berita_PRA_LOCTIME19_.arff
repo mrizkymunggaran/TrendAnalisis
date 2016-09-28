@@ -1,0 +1,26 @@
+@relation LocationAndTimeAndSubtittle
+
+@attribute subtittle string
+@attribute location string
+@attribute time string
+
+@data
+'',bandung,8/5
+'','',6/4/2013
+'',bandung,20/5
+'','',8/6
+'','',18/4
+'','',17/5
+'',belitung,18-20/5/2013
+'','',''
+'','',29/4/2013
+'',depok,19/5
+'','',20/4
+'','',15-26/5/2013
+'',karawang,30/4
+'budidoyo hati dagang sayur',temanggung,26/5/2013
+'','',''
+'','',10/6
+'',puncak,25/5
+'','',17/5/2013
+'','',''

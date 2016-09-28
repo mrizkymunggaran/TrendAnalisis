@@ -1,0 +1,51 @@
+[Diagram]
+Title=Default title
+Database=D:\vehicle.TXT
+
+[Dataset]
+MLClassGenerator=TMLGenDataset
+successors=1
+succ_1=Define status 1
+
+[Define status 1]
+MLClassGenerator=TMLGenFSDefStatus
+target_count=0
+input_count=18
+input_1=COMPACTNESS
+input_2=CIRCULARITY
+input_3=DISTANCE CIRCULARITY
+input_4=RADIUS RATIO
+input_5=PR.AXIS ASPECT RATIO
+input_6=MAX.LENGTH ASPECT RATIO
+input_7=SCATTER RATIO
+input_8=ELONGATEDNESS
+input_9=PR.AXIS RECTANGULARITY
+input_10=MAX.LENGTH RECTANGULARITY
+input_11=SCALED VARIANCE_MAJOR
+input_12=SCALED VARIANCE_MINOR
+input_13=SCALED RADIUS OF GYRATION
+input_14=SKEWNESS ABOUT_MAJOR
+input_15=SKEWNESS ABOUT_MINOR
+input_16=KURTOSIS ABOUT_MAJOR
+input_17=KURTOSIS ABOUT_MINOR
+input_18=HOLLOWS RATIO
+illus_count=0
+successors=1
+succ_1=View dataset 1
+
+[View dataset 1]
+MLClassGenerator=TMLGenCompViewData
+successors=1
+succ_1=Principal Component Analysis 1
+
+[Principal Component Analysis 1]
+MLClassGenerator=TMLGenCompFactPCA
+nb_axis=5
+cos2_ctr=0
+standardize=1
+bartlett=0
+showcorr=0
+show_rep_corr=0
+sorted=1
+successors=0
+

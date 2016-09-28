@@ -1,0 +1,1180 @@
+@relation LocationAndTimeAndSubtittle
+
+@attribute subtittle string
+@attribute location string
+@attribute time string
+
+@data
+'kira boneka nyata mayat bayi hanyut sungai',magelang,17/3/2016
+'kirim bupati ajar antikorupsi ganjar harap maling',temanggung,20/3/2016
+'derita aids daerah lonjak',sragen,18/3
+'calo suai antre akta lahir kia cucu jokowi terbit',surakarta,14/3/2016
+'produksi ore nikel sultra selundup labuh tikus',kolaka,20/6
+'satpol pp bongkar bangun eks lokalisasi',banjarmasin,3/2
+'relokasi pkl ridwan kamil janji promosi dagang',bandung,14/3
+'anak harimau tmsbukittinggi beri thamrin sarinah','jakarta pusat',19/3
+'perempuan foto syur anggota dprd nyawa ancam',pamekasan,17/3/2016
+'ancam angin kencang',sleman,20/3
+'luncur angkot gratis ajar',mojokerto,''
+'60 angkot catat ilegal',bekasi,4/11
+'antraks sebar luas sulbar minta temu gejala',pinrang,18/3/2016
+'lab negatif 8 pasien duga antraks pulang',pinrang,20/3/2016
+'periksa ivan haz mkd koordinasi polda',metro,''
+'apbd bangkal bocor belas jabat periksa jaksa',bangkalan,''
+'dana sejahtera masyarakat',belitung,''
+'309 kelompok tani daftar asuransi tani',bandung,29/12
+'lindungi tani lahan sawah asuransi',sukabumi,17/3
+'20 hektare sawah asuransi',gorontalo,23/2
+'jatim galak asuransi tani',malang,14/3/2016
+'kapolri izin jasad siyono autopsi ulang',klaten,17/3/2016
+'masya allah awan lafaz allah langit',yogyakarta,16/3
+'jk 340 belanda cari malu jakarta','maluku tengah',17/3
+'kinerja dprd kabupaten anggap mandul',bandung,5/1
+'250 hektar padi rusak banjir','',17/3/2016
+'250 hektare sawah baubau rendam banjir','',''
+'500 rendam',tasikmalaya,17/3
+'7 jembatan rusak banjir',sukabumi,11/3/2016
+'36 titik bencana banjir kabupaten',bandung,15/3
+'banjir bandang terjang',sukabumi,14/3/2016
+'banjir bandang minta jembatan',sukabumi,15/3/2016
+banjir,bandung,12/3/2016
+'banjir kabupaten ridwan kamil risak netizen',bandung,''
+'banjir kabupaten surut jiwa',bandung,12/2/2016
+'banjir kabupaten surut',bandung,14/3/2016
+'banjir kabupaten kemensos beri bantu uang mobil tangki air',bandung,14/3/2016
+'banjir landa pasaman 90 rendam air','pasaman barat',20/3
+'banjir surut lapang bola dayeuhkolot mirip empang',bandung,12/3/2016
+'citanduy luap rendam banjir',ciamis,17/3/2016
+'terjang banjir bandang jembatan roboh',bima,12/3/2016
+'dpd sikapi keluh soal tembok lintas kereta api','bandar lampung',16/3
+'ikat alumni sastra unpad buka posko peduli banjir',bandung,''
+'makan ikan asin sulit',sukabumi,11/3/2016
+'laku aher cegah banjir',bandung,14/3/2016
+'luap sungai rendam 500',tasikmalaya,17/3
+'dulang rupiah bencana banjir',bandung,14/3/2016
+'pemkot nilai serius tangani banjir',bandung,20/3
+'tani bantu benih padi gratis',tabalong,''
+'ratus hektare sawah dampak banjir kabupaten',bandung,17/3
+'ridwan kamil harap proyek tabir atasi banjir timur',bandung,15/3
+'rusak terjang banjir',garut,19/3
+'wilayah terjang banjir',ketapang,18/3/2016
+'soal banjir ridwan kamil kota kabupaten',bandung,15/3/2016
+'banjir teh',bandung,''
+'sumur dampak banjir periksa',yogyakarta,12/3
+cieunteung,bandung,13/12
+'keluh pemkab tanggap bencana',bima,12/3/2016
+'korban banjir imbau waspadai leptospirosis',yogyakarta,16/3
+'wilayah banjir luas bpbd walah distribusi logistik',bandung,13/3/2016
+'pemprov siap rp 43 miliar ganti rugi kek tanjung api',palembang,18/3
+'ajar empati ratus siswa sd buku doa pasien rs',semarang,16/3/2016
+'nenek saliyem pindah gubuk reyot',semarang,14/3/2016
+'tawan order alat bantu 3',denpasar,16/3/2016
+'lampu kota tapaktuan guna tenaga surya','aceh selatan',18/3
+'batik butuh kenal',bekasi,19/3
+'harga bbm turun sopir angkot ogah turun tarif',bandung,5/1
+'harga bbm turun tarif angkot turun',medan,5/1
+'pemkot pangkalpinang bedah 325 layak huni',bangka,16/3/2016
+'karyawati bank begal rp 28 raib',ciamis,17/3
+'melawan tangkap begal motor tembak polisi','lampung utara',27/7
+'begal butuh biaya istri hamil',pontianak,12/3/2016
+episode,boyolali,4/11/2010
+'gunung dieng siaga',banjarnegara,30/5/2011
+'pmi beri bantu korban longsor',mamuju,23/5/2010
+'sembur gas resah majasari',majalengka,16/3/2016
+'tanggul sungai jebol padi rendam lumpur',cilacap,17/3
+'tni sergap sipil kontak senjata','puncak jaya',15/3
+'30 periksa kait bentrokan',medan,30/1
+'bentrok ranap riau puluh tangkap','indragiri hulu',''
+'bentrok napi lapas rajabasa polisi','bandar lampung',20/3
+'bentrokan okp polisi tetap 16',medan,1/2
+'organisasi muda bentrok suasana cekam',medan,30/1
+'organisasi bentrok sepakat tahan',medan,30/1
+'hp napi lapas rajabasa bentrok','bandar lampung',18/3
+'massa muda pancasila ipk bentrok 2 tewas',medan,30/1
+'pascabentrokan tetap siaga',medan,30/1
+'muda pancasila lsm manggala adu jotos',bandung,9/2
+'polisi tangkap ratus libat bentrok',medan,31/1
+'polisi tetap bentrokan lapas rajabasa','',18/3
+'wakapolri kontak senjata dampak pilu',poso,8/2
+'30 periksa kait bentrokan',medan,30/1
+'organisasi muda bentrok suasana cekam',medan,30/1
+'organisasi bentrok sepakat tahan',medan,30/1
+'tewas tembak 4 wna kelompok santoso',poso,16/3/2016
+'massa muda pancasila ipk bentrok 2 tewas',medan,30/1
+'pascakontak senjata takut aktivitas',poso,19/1
+'polda papua tambah persenonel sinak',jayapura,15/3
+'polisi tembak mati tni gadungan curi motor',bandung,15/3
+'baku tembak kelompok santoso lari hutan',poso,15/3/2016
+'kelompok separatis papua ulah sipil tewas','puncak jaya',15/3/2016
+'sby beri hormat jenazah sulistio',semarang,15/3/2016
+'lepas jilbab',magelang,18/9/1993
+'lintasi trek gunung gubernur ganjar gowes 40 km',semarang,20/3/2016
+'modal rano karno tahan kursi gubernur banten','',15/3/2016
+'agung podomoro group bagibagi voucher',surabaya,13/9/2012
+'31 titik api pantau riau','kepulauan meranti',15/3/2016
+'bupati bowa tolak rencana naik iur bpjs',gowa,''
+'buruh tolak naik iur bpjs',banyumas,15/3
+'iur bpjs naik ylki kontraproduktif empati','',''
+'naik iur bpjs imbang layan',malang,1/4/2016
+'tolak rencana naik premi bpjs',jombang,''
+'ylki desak presiden batal naik iur bpjs mandiri','',''
+'ylpk bali tolak naik iur bpjs','',18/3
+'kritik atur rokok fasilitas bpjs sehat',salatiga,14/3/2016
+'ganjar dukung perda cabut bpjs rokok',jepara,15/3/2016
+'tanggung iur bpjs sehat miskin',indramayu,8/3
+'serah buaya muara bksda',pontianak,19/3/2016
+'gubernur sebut budaya pudar',gorontalo,''
+'tokoh eksil indonesia ibrahim issa usia',baru,20/8/1930
+'bumdes yakin wujud mandiri ekonomi',kendari,''
+'martinus bercitacita negeri',depok,19/3/2016
+'martinus tembak glock 19',yogyakarta,18/3/2016
+'istri sakit suami temu',boalemo,14/3/2016
+'jenazah remaja condongcatur temu enam jam tewas',depok,18/3/2016
+'remaja tewas condongcatur siswa kelas ii sma de britto',depok,18/03/2016
+'curiga ajar sma temu tewas condongcatur',depok,18/3/2016
+'sekolah remaja tewas condongcatur cari keluarga',depok,18/03/2016
+'profil bupati ogan ilir noviadi mawardi manja tua','ogan ilir',23/6/2015
+'pasokan batas harga cabai batas melojak 100',belu,''
+'car free day jakarta riah seni reog',ponorogo,20/3/2016
+'kaltim alami cuaca panas ekstrim',samarinda,15/3/2015
+'musim hujan soromandi kering',bima,14/3/2016
+'terbang alih solo','jakarta selatan',30/10/2010
+'transportasi udara ntt lumpuh total',kupang,17/1/2010
+'masyarakat imbau waspadai bencana',sukabumi,19/3
+'curi motor tembak polisi aksi',medan,17/3/2016
+'libat curanmor pasang meni tahan',magelang,''
+'harga daging ayam lonjak','gunung kidul',14/1
+'bank jateng tangani cair dana',semarang,9/2
+'dana belanja bandwidth internet smart kampung',banyuwangi,19/3/2016
+'dana coret apbd dprd jabar protes',bandung,20/3
+'mendes bangun soal dana','',15/12
+'demam darah renggut nyawa enam anak',tulungagung,''
+'februari puncak kasus dbd',bengkulu,''
+'maret catat 100 kasus dbd',bengkulu,19/3
+'status klb dbd cabut',bengkulu,19/3
+'busyro mahfud md cs deklarasi jogja independent',yogyakarta,''
+'demam darah tewas anak',lumajang,''
+'kerap tilang ratus kemudi becak motor demo polisi',jombang,16/3/2016
+'pagar nas kajati jatim rusak polisi kantongi tunjuk',surabaya,18/3/2016
+'dagang kecewa pasar turi batal resmi',surabaya,18/3
+'ppp jateng kirim surat jokowi ihwal gugat rp 1 triliun','jakarta pusat',17/3
+'tolak reklamasi teluk benoa 26 bendesa adat bakal demo',denpasar,18/3/2016
+'tolak reklamasi teluk bona aksi damai taman tol bandara',tuban,20/3/2016
+'gubernur bali demo ganggu',tuban,18/3/2016
+'puluh mahasiswa tuntut densus 88 bubar',medan,19/3
+'polisi siap water canon taman ngurah rai',denpasar,''
+'27 adat demo tolak reklamasi teluk tanjung benoa',tuban,20/3/2016
+'ganjar deparpolisasi',temanggung,20/3/2016
+'anggota dprd protes jatah makan',palopo,18/3
+'ganjar sulistiyo dharma bhaktimu kenang',semarang,''
+'bakar rsal mintohardjo humas polri','',''
+'ketua pgri sulistyo',semarang,''
+'bupati ajak sukses earth hour',sleman,19/3
+'jabar earth hour hemat 90 megawatt',bandung,19/3
+'earth hour 2016 pln bali prediksi turun beban 41 mw',denpasar,19/3/2016
+'earth hour iniaksipontianak pusat masjid raya mujahidin',pontianak,19/3/2016
+'earth hour pln imbau mati bumi',bandung,''
+'earth hour pakai bali',denpasar,28/3
+'gelar puncak ingat earth hour',padang,19/3/2016
+'ratus lilin rang benteng rotterdam earth hour',makassar,19/3
+'ratus padam lampu jam ingat earth hour',palu,19/3
+'wagub jabar harap earth hour giat mata',bandung,''
+'lihat jejak edelweiss','bener meriah',7/2/2016
+'harga daging normal',binjai,''
+'marahi ibu kandung pria bingung jaga anak rusak',bandung,17/3/2016
+'bmkg imbau masyarakat panik equinox','',21/3/2016
+'antisipasi erupsi lokon bpbd posko siaga',tomohon,19/3
+'tuan festival busana warna alam 2016',banyuwangi,15/3/2016
+'asap misterius tegal heboh',bangli,13/3/2016
+'bmkg besok matahari',gorontalo,20/3
+'kolaborasi jazz musik tradisional selamat gelar budaya madura',sumenep,18/10/2014
+'segara lelanguan nusa fiesta','',30/10/2012
+'bakal 25 vaksin flu burung',banyuwangi,''
+'flu burung ternak rugi rp30',banyuwangi,''
+'gilir minta daging ayam turun',karanganyar,25/8
+'harga ayam kota turun',malang,''
+'ternak ayam ancam rugi',sleman,3/2
+'ternak minta jaga unggas hindari h5n1',yogyakarta,11/6
+'ternak unggas diy imbau brooder',yogyakarta,''
+'puluh unggas muara teweh mati dadak','barito utara',''
+'unggas mati kena flu burung lamongan',banyuwangi,16/3
+'2015 kasus flu burung turun',sukabumi,14/7
+'tani cabai gagal panen harga pasar roket',semarang,17/3/2016
+'bupati akui pasung daerah',pati,16/3/2016
+'duga sakit jiwa pria lompat kapal cantika','konawe selatan',16/3/2016
+'gurandil tewas tambang ilegal pongkor',bogor,15/3
+'tewas sumur',sukabumi,20/3
+'pangkal elpiji 3 kg',banjarnegara,19/3
+'gempa 47 sr guncang sumba','sumba barat',19/3
+'sumba guncang gempa 56 sr panik','sumba barat',16/3/2016
+'bayi miskin derita gizi buruk rawat','',''
+'bocah satrio derita gizi buruk dunia',wakatobi,16/3/2016
+'menteri sehat 404 kabupaten alami gizi buruk','',''
+'riah nonton gmt bukti',poso,10/3
+'green economic zone indonesia',medan,19/3
+'gulung kulit kabel temu goronggorong kota',bandung,17/3
+'limbah kabel goronggorong kota tanggap ridwan kamil',bandung,17/3
+'46 anak korban keras seksual',sukabumi,15/3/2016
+'aji kecam aparat lindungi putar film pulau buru','jakarta pusat',''
+'aktivis ham ingat 14 kasus hilang',surabaya,22/9/2012
+'brimob tembak istri kasus henti',metro,''
+'cba sebut pungli laut negara rugi rp 52 miliar','',''
+'cegah pungli layan administrasi hukum online',palembang,''
+'istri paksa rsj bp3akbp gandeng polisi',semarang,15/3/2016
+'mati siyono komnas ham berani lawan densus 88',klaten,''
+'polisi tampar','polewali mandar',16/3/2016
+'komnas ham dokumen as kasus 1965','',''
+'masinton tuju kasus 1965 selesai rekonsiliasi',surabaya,''
+'pelaku aniaya lepas ngamuk rusak kantor polisi','seram bagian barat',17/3/2016
+'polisi gagal dagang manusia 18 wni jual portugal turki','ogan ilir',''
+'pria paksa istri sakit jiwa',semarang,15/3/2016
+'sidang kasus salim kancil tosan ungkap aniaya',lumajang,25/2
+'tragedi 1965 luhut pandjaitan hukum','jakarta pusat',2/5/2016
+'harga beras turun',lhokseumawe,19/3
+'riau provinsi literasi indonesia','',18/3
+'harga gabah anjlok',lebak,''
+'dagang nasi harap puasa harga petai turun',malang,7/6/2013
+'makna nyepi manajemen bandara ngurah rai',tuban,9/3/2016
+'11 jenazah korban heli tni jatuh evakuasi rsu',palu,''
+'12 jenazah korban heli tni jatuh temu',palu,''
+'13 celaka helikopter tni',poso,''
+'13 tumpang helikopter tni ad jatuh nyata tewas',poso,''
+'11 jenazah korban helikopter jatuh bawa rs',palu,20/3/2016
+'daftar korban helikopter tni ad jatuh',poso,''
+'helikopter jatuh kapendam wirabuana sebut kena petir',poso,20/3/2016
+'helikopter tni ledak',poso,20/03/2016
+'helikopter tni ad jatuh 10 menit darat',poso,20/3/2016
+'helikopter tni ad jatuh 5 tumpang tewas',poso,20/3/2016
+'helikopter tni ad jatuh duga sambar petir',poso,''
+'helikopter tni ad jatuh',poso,''
+'helikopter tni ad jatuh 13 tumpang kabar tewas',poso,''
+'helikopter tni jatuh duga cuaca buruk',poso,20/3
+'helikopter tni jatuh diam kolonel saiful penuh layat',palu,20/3/2016
+'helikopter tniad jatuh pakai kejar kelompok santoso',poso,20/3/2016
+'celaka helikopter tni ad 13 tewas',palu,20/3/2016
+'kronologi jatuh helikopter tni ad tewas 5 perwira',poso,20/3/2016
+'mabes ad kumpul informasi helikopter jatuh',poso,20/3
+'mabes tni korban helikopter tni ad cari',poso,''
+'pesawat tni ad jatuh wilayah rawan konflik',palu,20/3/2016
+'jatuh rombong laku temu bahas operasi kejar santoso',poso,''
+'tni investigasi sabotase',palu,''
+'141 burung kakatua sita morotai','halmahera utara',14/3/2016
+'rs wahidin nonton bareng i am hope sambut hut',makassar,20/3
+'teater jepang pentas kera sakti borobudur',magelang,19/3
+'anak emis kartu tiket krl',bogor,27/12
+'puluh ibu tangga kena hivaids',lebak,19/3
+'pria istri jawa homoseksual',bandung,''
+'55 hektare hutan indonesia kritis',purwakarta,''
+'bayi derita hydrocephalus dunia',bone,1/11/2015
+'benda rupa cula badak sita bandara supadio',pontianak,11/3/2016
+'impor sapi ancam sejahtera ternak',malang,17/3
+'cerita kiai pesantren haram imunisasi polio',cirebon,''
+'dedy mizwar leceh hadap adil',bandung,17/3/2016
+'kalah pt kahatex deddy mizwar sebut tuntut kiamat',bandung,17/3/2016
+'usaha mobil dasep ahmadi sepi order','',''
+'telanjur cemar alas rancaekek pilih kawasan industri padu',bandung,17/3/2016
+'demokrat belanja infrastruktur ganggu anggar miskin',surabaya,20/3/2016
+'usul jembatan seberang banyuwangibali',ketapang,17/3/2016
+'pantau vandalisme pasang 79 cctv taman kota',semarang,''
+'presiden janji tol cisumdawu rampung 2018',sumedang,17/3
+'minta nasional rusak',sukabumi,17/3
+'nilai strategis labuh tol laut',wakatobi,18/3
+'investasi bodong dana rp 60 miliar',gorontalo,15/3/2016
+'investor lampung investasi 50 miliar nanas aceh','aceh utara',19/3/2016
+'bank mandiri gelar nusa tenggara investment day',mataram,17/10/2011
+'ntb tawarkan industri olah rumput laut',mataram,18/10/2011
+'pemkot minta tinjau ulang setop izin tpt',cimahi,10/12
+'cisalak ambles akses putus',subang,16/3/2016
+'minta nasional rusak',sukabumi,17/3
+'jembatan hanyut taruh nyawa seberang sungai citalahab',sukabumi,11/3/2016
+'jembatan ambruk ratus siswa naik rakit sekolah',mamuju,15/3/2016
+'jembatan hanyut taruh nyawa seberang sungai citalahab',sukabumi,11/3/2016
+'harap jembatan rusak',sukabumi,17/3
+'jenazah ketua pgri terbang',banjarnegara,15/3/2016
+'jokowi ancam copot menteri ruhut nggak syukur menteri','',''
+'kota selimut kabut asap',dumai,17/3/2016
+'wali kota makan warung bayar sampah plastik',semarang,14/3/2016
+'curi ikan nakhoda myanmar tuntut rp 2 miliar',medan,8/3
+'kapolda harap kapal asing curi ikan musnah',ternate,18/12
+'polisi kapal angkut 11 ton bbm ilegal','indragiri hilir',''
+'kapal depot pertamina ledak',dumai,8/1
+'bantu evakuasi korban kapal karam 10 nelayan sim gratis',banyuwangi,4/3/2016
+'bantu korban kapal rafelia 2 nelayan sim gratis',ketapang,''
+'kapal muara jaya balik kapuas 1 hilang',pontianak,18/3/2016
+'menteri susi tenggelam mv viking','',''
+'abk kapal muara jaya hilang temu tewas',pontianak,20/3/2016
+'saksi usah pakai sutradara bohong','aceh singkil',16/3/2016
+'mensos jatim sumbang cerai indonesia',malang,20/3/2016
+'duga pukul ridwan kamil minta terang',bandung,20/3/2016
+'sebut tampar sopir angkot ridwan kamil perang tweet netizen',bandung,20/3
+'diskominfo kota bantah ridwan kamil pukul sopir angkut',bandung,20/3/2016
+'tuduh tampar sopir ridwan kamil polisi',bandung,''
+'polisi soal duga pukul ridwan kamil',bandung,20/3/2016
+'polda jabar ridwan kamil duga pukul',bandung,20/3/2016
+'ridwan kamil bantah tampar sopir angkot',bandung,20/3
+'ridwan kamil polisi sopir angkut',bandung,''
+'xanana mundur batas indonesiatimor leste',belu,6/2
+'alas kinerja densus 88 evaluasi',klaten,''
+'gibran ndak usah pakai babysitter','',15/3/2016
+'1150 pasu tni siap bantu padam bakar lahan riau',pekanbaru,16/3/2016
+'4 kasus bakar hutan lahan','',''
+'44 bakar hutan lahan riau','kepulauan meranti',19/3/2016
+'kebun tebu 24 hektar ludes bakar',gorontalo,20/3/2016
+'706 hektar hutan lahan riau musnah',pekanbaru,18/3/2016
+'bakar lahan angsur padam',bengkalis,''
+'bakar lahan kabut asap tipis selimuti',bengkalis,''
+'soal bakar lapindo dibully',sidoarjo,15/3/2016
+'17 titik panas deteksi sumatra','indragiri hilir',17/3
+'garagara harta kakek bakar keluarga istri',pelalawan,19/3
+'bakar lahan gambut meranti riau capai 310 hektare','',''
+'bakar kakak adik tewas peluk',pekanbaru,10/10/2014
+'ketua pgri sulistyo korban bakar rs mintohardjo',semarang,''
+'sulasih tewas panggang kamar',blitar,15/3/2016
+'tangki mobil damkar kosong seksi absen wakil bupati berang',klungkung,15/3/2016
+'tidur pulas anakcucu tewas bakar',sidoarjo,21/6
+'tuduh bakar pasar wali kota cabut polisi',semarang,14/3/2016
+'curhat ridwan kamil kasih rp 12 miliar lurah kota rp 0',bandung,18/3/2016
+'ganjar imbau satpol pp humanis',pati,16/3/2016
+'jokowi tiada ampun aparat beking',sabang,''
+'pemkot resmi gera disiplin',bandung,13/3
+'siantar terap kantong plastik bayar',metro,16/3/2016
+ingat,surabaya,15/3/2016
+ingat,surabaya,15/3/2016
+'berita kait','',17/3
+'butuh 160 damping budaya',yogyakarta,18/3
+'singa barong kereta pusaka bangga sultan',cirebon,15/3/2016
+'sopir lamborghini maut tuntut 5 penjara',surabaya,29/11/2015
+'bocah kembar timpa truk pasir tewas','',19/3/2016
+'maaf korban kemudi lamborghini tuntut 5 penjara',surabaya,14/3/2016
+'mudik sepeda motor tewas tabrak bus','lampung selatan',''
+'kuasa hukum celaka lamborghini kasus putra hatta rajasa',surabaya,16/3/2016
+'nyawa ajar lembang layang berangkat sekolah',baru,''
+'pulang uji siswi smk tewas lindas truk',nganjuk,16/3/2016
+'rintih anak bikin sunardi bangkit lumpuh','',17/3/2016
+'speedboat tabrak sampan balita tewas','',16/3/2016
+'kuat tanjak truk mundur tewas bocah tumpang',jayapura,18/3/2016
+'truk tabrak truk kendara motor tewas gencet',demak,17/3/2016
+'latih panah tembak',yogyakarta,17/1
+'ayah siksa anak cah kaca tubuh korban buang semak',kampar,13/3/2016
+'tengkar istri paksa suami rsj',semarang,15/3/2016
+'todong senjata istri pria gelandang polisi',bandung,''
+'fikri siksa buang nasi',malang,14/12/2013
+'kian isolasi bahan pokok suplai terbang rintis',malinau,17/3/2016
+'bawa bolpoint pak bawa rokok',banyuwangi,16/3/2016
+'indonesia sungguh laut','',7/10
+'panggil paus menteri susi','',14/3/2016
+'30 kota kategori fakir miskin',cirebon,7/3
+'bpjs sehat janji naik iur bareng layan','banda aceh',17/3
+'tanggung iur bpjs sehat miskin',indramayu,8/3
+'tolak naik bpjs pemprov jatim surati presiden','',1/4/2016
+'2 terima gaji karyawan pabrik gula adu dprd',kendal,14/3/2016
+'adil naik harga ganti rugi lahan tol batangsemarang',kendal,17/3/2016
+'naik tarif pdam tunda',jembrana,17/3
+'maskapai layani nataltahun',surabaya,21/12/2010
+'naik tarif pdam tunda',jembrana,17/3
+'badrodin perwira kapolri','',''
+'10 anak muda beda zaman milenium kim jongun pangeran saudi','',17/3
+'sambut earth hour ngalam teng',malang,19/3
+'polres polisi masyarakat',tegal,19/3/2016
+'polwan cokelat kendara tertib',semarang,17/3/2016
+'41 makan daging antraks',pinrang,16/3/2016
+'52 racun makan hajat','kubu raya',14/3/2016
+'puluh karyawan pt aqua farm racun makan','serdang bedagai',16/3
+'puluh siswa sd racun jajan mi bakso',boyolali,15/3/2016
+'ajar empati ratus siswa sd buku doa pasien rs',semarang,16/3/2016
+'puluh racun siomay',karawang,19/3/2016
+'hancur raja wengker misteri mati raja ketut wijaya',ponorogo,''
+'pt kai luncur lori wisata lintas jemberbanyuwangi',banyuwangi,20/3/2016
+'mabuk resmi asrama mahasiswa kabupaten lanny jaya ricuh','lanny jaya',19/3/2016
+'baku tembak polisi preman regang nyawa',palembang,17/3/2016
+'baku tembak tewas',poso,15/3/2016
+'senjata samurai kelompok muda onar',manado,18/3/2016
+'anggota kelompok santoso tewas aparat ketat awas',poso,15/3/2016
+'anggota kelompok santoso tewas rupa wna',poso,15/3/2016
+'ricuh warnai bongkar prostitusi',indramayu,19/3/2016
+'kronologi baku tembak tewas anggota kelompok santoso',poso,''
+'ricuh jabat pimpin dpd fatwa anggota','',''
+'wakapolri kontak senjata dampak pilu',poso,8/2
+'kunjungi its menteri didik swiss tawarkan',bandung,''
+'umm jalin kyungdong university',malang,''
+'jalinsum bandarlampunglampung rusak parah','lampung selatan',19/3
+'tagih utang napi serang lapas',pamekasan,14/3/2016
+'jadwal besuk lapas robok tiada',denpasar,22/02/2012
+'rusak jaksa anggota muda pancasila tangkap',surabaya,''
+'sekolah polda',rembang,16/3/2016
+'naik sih layan bpjs',badung,1/4/2016
+'cari ikan sungai ismail tewas setrum',binjai,17/3/2016
+'10 runtun pascakesurupan rau',berau,20/3
+'puluh rau runtun misterius',berau,''
+'praktik sewa kios pasar singosaren usut','',18/3/2016
+'kisruh dpd hormat panggil imran gusman','',''
+'mahasiswa ub ikuti kompetisi boston','',''
+'kontrak puluh batam',bintan,17/2
+'minum kopi suparmin kejangkejang tewas',tulungagung,14/3/2016
+'korek api granat heboh kunjung mall',metro,19/3
+'4 buron pidana korupsi bank jateng tangkap kamar kos',batu,15/3/2016
+'4 buron pidana korupsi rp 39 miliar samar guru tk',semarang,''
+'suryadharma ali guna telepon tahan kpk','jakarta selatan',''
+'proyek hambalang manamana rawat',bogor,18/3/2016
+'bongkar suap damayanti kpk periksa sekjen dpr',semarang,''
+'bupati bener riah ditahan kpk kasus duga suap dermaga','bener meriah',''
+'bupati bener riah ditahan kpk wakil tv','bener meriah',16/3/2016
+'bupati ogan ilir jerat kasus narkoba ganti','ogan ilir',''
+'bupati periksa polisi kait duga korupsi',seluma,16/3/2016
+'buron kasus kredit fiktif bank jateng tangkap sumut',batu,15/3/2016
+'cair anggar dobel kadis pu sorong','sorong selatan',15/3/2016
+'kapal sekda buton ditahan kait korupsi dana bansos',kendari,18/3/2016
+'sebut serah lhkpn masinton tunjuk bukti','',22/9/2015
+'disidak presiden proyek hambalang kaji',bogor,18/3/2016
+'dprd malu minta kpk usut tuntas kasus proyek pulau seram',ambon,22/1/2016
+'mangkrak proyek hambalang tengok jokowi',bogor,''
+'enam usaha duga ngemplang pajak',kendal,18/6/2012
+'ganjar bupati jateng sekolah kpk',temanggung,22/3/2016
+'gayus tambun gawai pajak sakit hati',kendal,18/6/2012
+'gubernur gatot pujo evy istri hukum korupsi',medan,''
+'hakim vonis bebas dakwa korupsi dana dprd luwu timur','luwu timur',15/3/2016
+'hary tanoe berondong 33 tanya 5 jam','',''
+'periksa jagung bupati papua kabur',puncak,3/3
+'kpk soal jabat ogah lhkpn','',''
+'namanama anggota dprd terima suap bank banten','',''
+'jokowi proyek megaskandal hambalang',bogor,20/1/2010
+'jokowi proyek hambalang',bogor,''
+'jokowi proyek hambalang pelatnas rusunawa',bogor,18/3/2016
+'kasus korupsi apbd bupati halmahera periksa jaksa','halmahera barat',16/3/2016
+'kasus mobile8 hary tanoe yakin',surabaya,''
+'kasus ups reserse kriminal panggil lulung','jakarta barat',''
+'kemenkop kemenkominfo bahas koperasi grabuber','',22/12/2015
+'ketua pssi la nyalla kasus dana hibah kadin',surabaya,16/3/2016
+'kpk geledah kantor balai nasional',pati,22/1/2016
+'kpk jawab tuding beli yah ratna elu tanggepin','jakarta utara',''
+'kpk kawal alokasi cair dana','jakarta selatan',16/3
+'kpk periksa 6 anggota dprd musi banyuasin suap','musi banyuasin',25/2/2016
+'kubu la nyalla aju gugat adil',surabaya,18/3/2016
+'kubu la nyalla siap aju gugat praperadilan',surabaya,17/3/2016
+'la nyalla massa pp geruduk jati jawa timur',surabaya,17/3
+'la nyalla istana kait kisruh pssi','',''
+'la nyalla resmi kasus dana hibah',surabaya,''
+'la nyalla status pesan',surabaya,18/3/2016
+'la nyalla massa muda pancasila demo jati jatim',surabaya,16/3/2016
+'la nyalla massa muda pancasila demo jati jatim',surabaya,16/3/2016
+'la nyalla muda pancasila demo jaksa',surabaya,''
+'la nyalla jaksa jaga polisi',surabaya,''
+'menpora era soeharto ancam gugat begug purnomosidi',wonogiri,19/3/2016
+'wali kota 18 anggota dprd parepare vonis bebas',makassar,16/3/2016
+'mendagri tandatangani surat pecat bupati ogan ilir','ogan ilir',17/3
+'menteri imam nahrawi larang wisma hambalang','',''
+'jabat kirim lhkpn menteri yuddy ancam copot','',''
+'bangun rsud ngimbang telan rp 40 miliar',lamongan,22/7
+'dukung la nyalla balas tuding kajati jatim libat kasus suap sumut',surabaya,7/3/2016
+'mudah harta kaya kpk bikin elhkpn','',''
+'presiden sebut hambalang mangkrak roy suryo tepat',bogor,''
+'protes berita la nyalla muda pancasila demo tv',surabaya,''
+'proyek hambalang suai spesifikasi jokowi minta cek ulang',bogor,18/3/2016
+'ratus dukung la nyalla demo tv',surabaya,18/3/2016
+'jabat harta kpk siap sanksi','',''
+'vonis bebas eks kadishub hukum 4 penjara ma',merauke,16/3/2016
+'skandal bank banten pimpin dprd terima suap',serang,1/12/2015
+'soal duga korupsi transseram kpk geledah dirut usaha rekan','',22/1/2016
+'suryadharma ali lari ugd rspad gatot soebroto','',11/1/2016
+'terima dana kampanye ayah caleg ancam sanksi',bengkulu,28/1/2014
+'tinjau proyek hambalang jokowi gelenggeleng',bogor,18/3/2016
+'vonis dasep jaksa aju banding','',''
+'anak kades tewas keroyok curi ayam',takalar,17/3/2016
+'lantik bnpt rekam jejak tito karnavian',poso,7/11/2005
+'besuk tahan rutan medaeng kabur',surabaya,9/6/2012
+'komplot spesialis bobol kosong ciduk polisi',gorontalo,18/3
+'polisi bekuk laku tipu calon tki',ponorogo,16/3
+'tahan buron lacak via sinyal ponsel',surabaya,9/6/2012
+'krisis lampung pimpin pln minta mundur','bandar lampung',17/3
+'lihat atm bank sampah bali anggota dprd dki foto pergi',denpasar,9-11/9/2015
+'ingat kades menteri marwan janji keliling','',17/2
+'mantu gubernur jatim penuh sesak batal hadir jinjing sepatu',surabaya,19/3/2016
+'dubai port world laku survei kek tanjung apiapi',batam,16/3
+'gubernur jatim mantu tamu non vip antre tunggu jokowi',surabaya,19/3/2016
+'jokowi sby mantu gubernur jatim',surabaya,19/3/2016
+'jawa presiden tinjau bendung jatigede',sumedang,31/8/2015
+'kisi air waduk jatigede 40',sumedang,17/3
+'presiden tinjau waduk jatigede',sumedang,31/8/2015
+'belgia tarik kembang labuh jabar','',17/3
+'izin pulang cucu jokowi boyong','',15/3/2016
+'jawa presiden tinjau bendung jatigede',sumedang,31/8/2015
+'sidak sakit jokowi',sumedang,''
+'soal anak saran jokowi ibuibu',sumedang,''
+'lahan tani susut',surabaya,17/3
+'kanwil kemenkum ham sumbar fungsi lapas',padang,5/1
+'lapas kapasitas 400 huni 2400 jaga 14',banjarmasin,''
+'ombudsman prihatin lapas kaltim kapasitas layak',samarinda,4/1
+'jateng harta kaya syarat naik pangkat',semarang,1/2
+'anggota dprd juara harta kaya','',''
+'gagal nikah waria minta kasih',wonosobo,''
+'hartono minta rp2 miliar ketua dprd banten',tangerang,15/3/2016
+'alas irman gusman ogah teken tata tertib dpd',padang,''
+'jabat pimpin 25 sidang dpd ricuh','',''
+'sidang dpd ricuh gkr hemas dinamika politik',baru,''
+'sidang dpd ricuh irman gusman','',''
+'pimpin dprd banten akui terima uang',semarang,15/3/2016
+'status waspada rang leptospirosis',sampang,19/3/2016
+'calon pengantin aju izin kua tolak',wonosobo,17/3/2016
+'ganjar lakilaki lakilaki pedangpedangan',wonosobo,16/3/2016
+'hidayat 4 pilar mpr bendung perang asimetris','',''
+'kua waria urus nikah calon ayah',wonosobo,''
+'mempelai siap polisi henti nikah',wonosobo,''
+'menteri khofifah risak soal rebus lgbt media akui','',28/2/2016
+'tua terima anak waria',wonosobo,''
+'pemprov jatim desak terbit pergub antilgbt',surabaya,20/3
+'nikah kepil tolak kua',wonosobo,''
+'nikah kepil tua sebar undang',wonosobo,''
+'polisi gagal nikah calon mempelai wanita tangis',wonosobo,16/3/2016
+'waria batal meni tulang punggung keluarga',wonosobo,''
+'permen libido marak orangtua resah',sidoarjo,7/2/2013
+'kampung iklim kampung ratus biopori',salatiga,16/3/2016
+'tahan padam lampung','',17/3
+'pencil aceh alir','aceh selatan',18/1/2016
+'gubernur lampung normal butuh','bandar lampung',17/3
+'normal lampung butuh','',17/3
+'kota gelar lomba selfie angkot',bandung,14/3/2016
+'tebing lereng rapi longsor 6 truk tambang timbun pasir',magelang,19/3/2016
+'enam truk pasir rapi timpa longsor',magelang,''
+'tebing bebeng longsor enam truk timbun',magelang,19/3/2016
+'jepang buka lowong ninja minat','',''
+'trauma pipa lapindo bocor tempel poster tolak',sidoarjo,''
+'anak muda dunia pers','banda aceh',22/11/2008
+'indonesia sungguh laut','',7/10
+'misteri mata air panasasin ciseupan mandi pusaka raja',sumedang,''
+'kunci sdm indonesia unggul','',''
+'usaha pailit',tangerang,9/2
+'miras ilegal bea cukai',kendari,12/2/2016
+'840 botol miras polres',boalemo,19/3/2016
+'duga minum miras oplos tambang emas tewas',gorontalo,14/3/2016
+'lakilaki topi koboi sampah masyarakat',surabaya,''
+'mobil pelat merah angkut miras batas',pohuwato,17/3/2016
+'racik miras oplos ciduk polisi',bandung,30/12
+'guru favorit pindah ratus murid mogok ajar',pamekasan,29/8/2014
+'angkut mogok titik kabupaten',semarang,19/11
+'angkut tetap narik',serang,19/11
+'angkut mogok usaha rugi',semarang,19/11
+'kelola mogok sopir rugi trans',pekanbaru,22/11
+'sopir bali pilih operasi',denpasar,19/11
+'megawati resmi monumen sukarno','minahasa utara',''
+'pemkot siantar nilai abai hadap museum',simalungun,19/3/2016
+'ungkap korupsi kasi intel jari lubukpakam mutasi',bengkulu,pulbaket
+'46 kg sabu sita kontra',cirebon,18/3/2016
+mkd,'',16/2/2016
+'aksi kejarkejaran warnai tangkap edar sabusabu','polewali mandar',18/3/2016
+'antisipasi narkoba jabat laku tes urine',purwakarta,16/3
+'astagfirullah ibu guru tangkap pesta sabu','pesisir selatan',15/3/2016
+'candu naik kelas edar',sleman,15/3
+'bawa narkoba pakai rawat pria makasar tangkap polisi',makassar,14/3/2016
+'bebas syarat polisi pidana narkoba edar','tana toraja',''
+'modus bandar narkoba jebak anakanak','',''
+'bnn minta pemkot galak p4gn',cimahi,''
+'bnn minta ketat edar narkoba daerah miskin',medan,19/3
+'bnn geledah pribadi bupati ogan ilir ahmad wazir noviadi','ogan ilir',16/3/2016
+'bnn incar jabat luwu raya pakai narkoba',palopo,16/3/2016
+'bnn wakil bupati ogan ilir',karanganyar,13/3/2016
+'bnn geledah bupati ogan ilir','ogan ilir',16/3
+'bnn riau sita sabu ekstasi nilai miliar rupiah',pekanbaru,''
+'bnn tes urine jabat ogan ilir pascapenangkapan bupati nofiadi','ogan ilir',17/3
+'bnn tes urine bupati ogan ilir bukti positif narkoba','ogan ilir',''
+'bnnp sumsel kejar pasok sabu bupati ogan ilir','ogan ilir',15/3/2016
+'bupati anas bukti daerah pakai narkoba',banyuwangi,17/3/2016
+'bupati narkoba bawaslu saran bnn libat pilkada','ogan ilir',''
+'bupati ogan ilir duga isap sabu lantik','ogan ilir',13/3/2016
+'bupati ogan ilir tangkap berkat nyanyi pns sakit jiwa','ogan ilir',13/3/2016
+'bupati ogan ilir tangkap narkoba','ogan ilir',13/3/2015
+'bupati wanita siap tes urine',bima,18/3/2016
+'cari bukti tambah bnn geledah bupati ogan ilir','ogan ilir',16/3/2016
+'cegah narkoba polres bakal periksa awak kapal',cirebon,19/3/2016
+'cerita budi waseso soal tangkap bupati ogan ilir','ogan ilir',''
+'duga bawa 40 kg sabu 170 butir ekstasi kapal periksa',cirebon,19/3
+'dpr sesal bupati jerat kasus narkoba','ogan ilir',''
+'anggota polres pecat',jambi,17/3
+'gagas ridwan kamil hadapi radikalisme narkoba',bandung,18/3/2016
+'napi positif pakai narkoba lapas',kupang,17/3/2016
+'ganjar buwas buas betul insting tajam','ogan ilir',16/3/2016
+'geledah lp sita bendera gam',lhokseumawe,17/3/2016
+'gerebek pesta sabu kodim bangkal tangkap',surabaya,14/3/2016
+'isap sabu ajar sma tangkap polisi',palopo,''
+'narkoba bupati ogan ilir angkut lido','ogan ilir',17/2/2016
+'jaksa agung tegas eksekusi mati pidana narkoba','',18/1/2015
+'jawab tuding luhut bupati oi ngomong','ogan ilir',18/3/2016
+'jokowi perintah tindak bupati jerat narkoba','ogan komering ilir',''
+'kakak adik tangkap duga edar sabu ekstasi',baru,18/3/2016
+'kemenkumham diy sidak lapas narkotika pakem','',16/3
+'kisah pilu korban perkosa jual bandar narkoba',padang,16/3/2016
+'laut jabar rentan jalur narkoba','',18/3
+'luhut lurah kuwu waspada',bandung,18/3/2016
+'luhut soal eksekusi mati pidana narkoba dikte',bandung,18/3/2016
+'lulus sd bandar sabusabu',karawang,7/3
+'mabes polri 40 kg sabu ratus ekstasi',cirebon,17/3
+'teler bupati ogan ilir urung periksa bnn','ogan ilir',''
+'massa lsm desak bnn tuntas kasus narkoba bupati ogan ilir','ogan ilir',18/3/2016
+'debar kisah tni nyamar beli sabu taruh nyawa',bangkalan,''
+'narkoba temu tembakau hanoman',maros,15/3/2016
+'negosiasi alot bnn dobrak pintu bupati ogan ilir','ogan ilir',13/3/2016
+'pamer tangkap narkoba polisi tanya',surabaya,''
+'pamer tangkap narkoba polisi tanya',surabaya,''
+'pangdam anggota tni pakai narkoba pecat komandan','',16/3/2016
+'panik tanya identitas elly buang sabu polisi',pontianak,14/3/2016
+'pdip soal bupati ogan ilir tanya 8','ogan ilir',13/3/2016
+'cat anggota polri istri edar sabu',palembang,''
+'jabat teras ramairamai tes narkoba',subang,''
+'perintah eksekusi mati pidana narkoba',bandung,''
+'bupati ogan ilir status periksa','ogan ilir',19/3
+'edar sabu jaring sipir cat tentara tangkap',jambi,''
+'polda kepri tangkap selundup sabu malaysia',batam,19/3
+'polisi bekuk 6 bandar narkoba jaring internasional ntt',kupang,14/3/2016
+'polisi tangkap anggota tni edar narkoba',pekanbaru,13/5/2016
+'positif nyabu bnn tetap bupati ogan ilir','ogan ilir',18/3/2016
+'positif nyabu sekwan dprd jeneponto',makassar,''
+'positif pakai narkoba bupati ogan ilir bawa bnn','ogan ilir',''
+'ratus anggota polda jateng jalani tes urine','',17/3
+'ratus polisi gerebek sarang narkoba 16',banjarmasin,15/3/2016
+'razia lapas bnn temu bong plastik bekas narkoba',mataram,15/3/2016
+'bandar narkoba digerebek 21 kg ganja',medan,16/3/2016
+'undang bnn bersih jabat narkoba aceh','aceh utara',19/3/2016
+'sebulan intai edar sabu tangkap',paniai,''
+'sebulan lantik bupati ogan ilir tangkap bnn','ogan ilir',''
+'sekwan tangkap pesta narkoba kantor',jeneponto,''
+'sembunyi sabu bra cd wanita tangkap polisi',samarinda,''
+'simpan narkoba calon rawat tangkap',cilacap,18/3
+'suami sakit keras istri jual ganja biaya obat',medan,''
+'giat cegah penyalahgunaan narkoba',sukabumi,17/3
+'tangkap bupati ogan ilir bnn beri tembakan ingat','ogan ilir',''
+'tantang bnn bupati rita minta periksa duluan','kutai kartanegara',16/3/2016
+'telantar anak ibu muda pilih edar narkoba','polewali mandar',3/6/2015
+'giur upah rp 16 ibu tangga nekat kurir ganja',garut,13/3/2016
+'tangkap nyabu sekwan dprd pecat pns',jeneponto,18/3/2016
+'tes narkoba takut',magelang,17/3/2016
+'tes rambut urine darah bukti bupati ogan ilir positif guna sabu','ogan ilir',17/3/2016
+'tes urin napi positif konsumsi narkoba',kupang,''
+'tes urine dada kantor samsat gawai bukti guna sabu','polewali mandar',16/3/2016
+'tes urine dada 4 oknum polisi polda positif guna narkoba','',''
+'transaksi polisi bandar narkoba tangkap',medan,18/3/2016
+'wakil bupati ogan ilir bupati pakai narkoba','ogan ilir',14/3/2016
+'wali kota negara daerah pakai narkoba',pontianak,17/3/2016
+'berita foto kapal nelayan malaysia tangkap','rokan hilir',23/11
+'sebulan hutan nenek bainar pulang',padang,19/3/2016
+'nenek tidur bekas kandang kambing',sukabumi,20/3
+'stok obat bpjs kosong rsud teluk kuantan henti operasi','kuantan singingi',21/3
+'obat tradisional diy penuhi syarat',yogyakarta,16/3
+'roadtertantang terjal',semarang,3/12/1987
+'rudiantara serah penanganan uber grabcar jonan','',''
+'zulkifli aplikasi online hapus','',''
+'polda papua gelar operasi kabupaten',jayapura,''
+'bantu tim sar cari pria hilang mandi sungai','polewali mandar',16/3/2016
+'pacarun olahraga jodoh',bogor,''
+'200 siswa sd ajar tanam padi organik',pati,18/3
+'dagang pasar klewer minta tertib pajak',surakarta,''
+'npwp dagang pasar klewer tempati kios',surakarta,18/3
+'ajar sejarah hotel bintang',semarang,7/12/2011
+'bmkg soal ancam panas ekstrem 21 maret',malang,18/3/2016
+'ngefans rhoma irama dokter udara radio soneta praktik',banyuwangi,28/6/2011
+'cicalengka panen raya jagung',bandung,16/3
+'gubernur ganjar sila gabah jual tengkulak',semarang,15/3/2016
+'pesawat asing tambah indikator kunjung wisman bali',tuban,14/3/2016
+'ternak rupiah kampung bebek',sidoarjo,''
+'bupati cellica desak jaipong waris budaya',karawang,''
+'sby mampir shalat masjid agung',demak,''
+'earth hour lampu candi prambanan borobudur mati',yogyakarta,''
+'indonesia usul layan haji saudi','',''
+'kampanye konservasi sungai gelar festival elo progo 2016',magelang,16/3/2016
+'pelaku wisata peran kembang pariwisata',belitung,''
+'scanning bangun sejarah tugu yogya',yogyakarta,16/3/2016
+'daki raya slamet',yogyakarta,3/1
+'saudi janji santun haji korban crane cair','',''
+'ht rampung lantik 3452 dpc partai perindo','bengkulu selatan',17/3/2016
+'kemenkumham beku partai lokal papua',jayapura,14/3/2016
+'nasdem tim kumpul ktp dukung ahok','belitung timur',7/2
+'sby soal 10 rekomendasi demokrat perintah jokowi',surabaya,''
+'surya paloh israel',samarinda,14/3/2016
+'demokrat bantah ruhut soal ani yudhoyono capres 2019','',''
+'demokrat indikasi ani yudhoyono maju capres 2019','',''
+'dualisme urus pusat kantor cabang ppp resmi politisi demokrat',pamekasan,15/3/2016
+'islah ppp kubu djan faridz absen','jakarta selatan',''
+'maju pilih idrus ketua golkar daerah','',''
+'perindo jateng fokus urus lurah','',''
+'sby saksi nikah putri gubernur jatim',surabaya,18/3/2016
+'tour de java sby tour de sumatera papua',surabaya,''
+'soal deparpolisasi surya paloh partai introspeksi',samarinda,''
+'tour de java partai demokrat tiba',surabaya,''
+'tour de java sby nikmati nasi',surabaya,''
+'cucu presiden jokowi lahir dagang bunga solo banjir pesan','',14/3/2016
+'gelar patroli keliling terjun pasu gajah',kampar,''
+'kafilah mtq ikuti pawai taaruf kota baubau','buton utara',19/3/2016
+'orangtua minta waspada predator anak',bima,15/3
+'ulama minta bk sikapi foto syur duga anggota dprd',pamekasan,17/3/2016
+'besok ht rampung lantik dpc partai perindo jawa',tegal,15/3/2016
+'bawa sajam massa fkppi larang lantik daerah',medan,17/2
+'lantik risma bakal pakai sepatu eks dolly',surabaya,17/2
+'mendikbud lantik 153 narasumber kurikulum 2013','',''
+'layan dokumen duduk kabupaten nilai lamban',bandung,''
+'alquran bukti densus 88 sebut leceh islam',bandung,19/3
+'cabuli anak polisi penjara 12',kupang,14/3/2016
+'perkosa siswi sma tangkap otak laku pacar',medan,17/3/2016
+'duga leceh seksual wartawati redaktur minta damai',ngawi,''
+'foto bugil sebar medsos mahasiswi pacar',bengkulu,14/3/2016
+'gadis 14 bawa lari pacar 2 hamil',ambon,''
+'paman setubuhi siswi sma hamil',ambon,17/3/2016
+'pria tangkap polisi tuding setubuhi putri',gowa,17/3/2016
+'takut emonnya',sukabumi,6/5/2014
+'wartawati magang korban leceh seksual cari',ngawi,''
+'borobudur telusuri video kontroversial red bull','',21/3/2016
+'nilai leceh borobudur video red bull tuai cam','',17/3/2016
+'polisi desak tahan zaskia gotik',denpasar,20/3
+'ledak mv viking lukis susi','',14/3/2016
+'marinir selamat terumbu karang',jayapura,18/3
+'candi borobudur prambanan ikon earth hour 2016 indonesia',magelang,19/3/2016
+'earth hour tema candle light dinner',tangerang,19/3/2016
+'earth hour wali kota ajak aksi mati lampu',semarang,19/3/2016
+'gelar ingat earth hour',padang,19/3/2016
+'padam jelang un siswa nilai jelek','bandar lampung',16/3
+'pln klaim pasokan surplus padam',gorontalo,20/3
+'pln padam gilir lampung juli 2017','',''
+'padam sulteng april 2016',palu,''
+'pln padam gilir lampung juli 2017','',''
+'preman tukang palak tangkap polisi kotapinang','labuhanbatu selatan',16/3
+'kasus abraham samad seponering nasib feriyani lim',makassar,''
+'pns tangkap polisi bakar hutan',pekanbaru,17/3
+'usul jembatan seberang banyuwangibali',ketapang,17/3/2016
+'bandara purboyo selesai wilayah daya',trenggalek,''
+'menteri marwan ajak ojk kawal bangun ekonomi','',29/2
+'presiden janji tol cisumdawu rampung 2018',sumedang,17/3
+'terkatungkatung menara masjid agung parepare bangun',makassar,20/3/2016.menurut
+'2 anggota ormas rusak nas kajati jatim',surabaya,18/3/2016
+'tangkap sumut bobol bank jateng bawa',semarang,15/3/2016
+'pasang kasih buang orok nikah',medan,12/1/2016
+'ktp mahal',karawang,19/3
+'pohon ktp dominasi',karawang,19/3
+'pelaku bunuh kantin sekolah tangkap batas rimalaysia',berau,14/3/2016
+'gubris minta surat cerai sulaeman bacok mertua',garut,15/3/2016
+'cinta tolak muda tusuk gadis idam tewas',seruyan,14/3
+'ajak duel daddi tewas tetangga',soppeng,15/3/2016
+'hilang karyawan cantik temu tewas kontra','',''
+'identitas mayat kampus unesa ungkap',surabaya,23/4/2012
+'jasad temu sungai cimandiri nali sidik jari',sukabumi,12/3/2016
+'sedih selimuti keluarga korban tembak jaya',jayapura,''
+'mars sma john de britto iringi jenazah mjs tuju makam',yogyakarta,19/3/2016
+'mayat perempuan penuh luka temu ambang sungai',kuningan,18/3/2016
+'mayat wanita temu kampus unesa',surabaya,23/4/2012
+'napi lapas rajabasa tewas tikam','',19/3
+'nyawa ajar lembang layang berangkat sekolah',baru,''
+'ajar sma tewas condongcatur kenal ceria aktif',sleman,18/3/2016
+'pelaku bunuh unesa tangkap',ciamis,23/4/2012
+'perempuan paruh baya bunuh bandara kualanamu',malang,19/3
+'perempuan bunuh bandara kualanamu duga tki',malang,20/3
+'pns temu tewas busana',jombang,15/3/2016
+'polisi bunuh hadap calon istri',sukabumi,28/1/2014
+'rekonstruksi mutilasi anak brigadir petrus 42 adegan',melawi,16/3/2016
+'rekonstruksi ayah tendang anak tewas teriak',batam,15/3/2016
+'remaja tewas condongcatur siswa kelas ii sma de britto',depok,18/03/2016
+'robiansyah tewas garagara batang rokok',palembang,15/3/2016
+'sakit hati jupri bunuh majikan pakai linggis',batam,''
+'tewas korban andal motor',garut,19/3
+'muda temu gantung pohon jambu',bogor,14/3/2016
+'sidang bunuh ricuh',bima,15/3/2016
+'tega janda muda sembunyi bayi lemari tewas',serang,17/3/2016
+'tersingung tuduh curi edi bacok karib','',17/3/2016
+'tragis siswa sma tembak kubur',sleman,''
+'temu potong kaki diperban jembatan waena',jayapura,19/3/2016
+'mendagri tandatangani surat pecat bupati ogan ilir','ogan ilir',17/3
+'peras bupati kakek bicara lantur',purbalingga,17/3
+'karaoke happy puppy nyanyi ian kasela polisi','',16/12/2015
+'kronologis nenek 60 perkosa tetangga','',18/3/2016
+'perkosa dukun anak halik bekuk polisi',sumenep,18/3/2016
+'tukang servis ponsel perkosa gadis tetangga',ciamis,16/3/2016
+'batas formulir dpd mundur','',5/4/2009
+'puruk pilu 2014 sby demokrat bangkit',yogyakarta,''
+'dprd jawa temu tambang ilegal',wonogiri,''
+'tani lereng sumbing siapsiap tanam tembakau',temanggung,''
+'sumur dampak banjir periksa',yogyakarta,12/3
+'sumsel target bebas tangkap ikan ilegal 2018',palembang,18/3
+'ajari nonton film porno guru ngaji cabuli 6 murid','',17/3/2016
+'bayar rp25 pelaku cabul siswi sd bebas','timor tengah utara',17/3/2016
+'bocah 13 cabuli anak 7',denpasar,16/3/2016
+'cabuli enam remaja pria udin bekuk polisi',bintan,18/3/2016
+'ajar cabuli remaja putri 14',surabaya,13/3/2016
+'guru ngaji cabul','polewali mandar',''
+'guru ngaji cabul bakar','',17/3/2016
+'kuli bangun cabuli anak hamil',surabaya,15/3/2016
+'pria tangkap polisi tuding setubuhi putri',gowa,17/3/2016
+'latifah culik takut main facebook',jombang,25/10
+'curi tandan pisang dodi tangis kantor polisi','',15/3/2016
+'istri hamil muda hp motor sikat',magelang,15/3
+'kapal viking kira sembunyi indonesia','',14/3/2016
+'komplot curi kerbau ringkus',majalengka,17/3
+'komplot curi motor ringkus warnet',pontianak,18/3/2016
+'pasang kekasihi tangkap curi helm pantai',denpasar,17/3/2016
+'curi kos wanita cantik',magelang,3/5/2010
+'curi hipnotis marak lampung','lampung tengah',25/8
+'rekam cctv curi kotak amal serah',yogyakarta,16/3/2016
+'libat aniaya curi sopir taksi tembak',makassar,7/2/2016
+'misinah nenek 70 derita lumpuh punggung lubang',ponorogo,''
+'tumor kaki kiri ifnatul golek lemah kurus kering',kediri,29/9/2014
+'ifnatul gadis derita tumor tahan dukung kerabat',kediri,29/9/2014
+'pemkot alokasi rp 3 miliar didik agama',palu,17/3
+'didik dorong wirausaha','',18/3
+'perintah buka daftar sekolah ikat nas','',maret-27/5/2016
+'swiss siap fasilitasi anggar teliti muda',surabaya,18/3
+'polri dalami kasus tembak papua','',16/3
+'4 jenazah korban tembak jaya tiba sentani',puncak,''
+'5 karyawan pt modern tembak kelompok sipil senjata 3 tewas',puncak,15/3/2016
+'komnas ham desak aparat tangkap pelaku tembak sinak',puncak,''
+'letus pistol heboh kunjung plaza fair',medan,19/3/2016
+'pelaku tembak papua identifikasi',puncak,17/3/2016
+'tembak sinak duga laku kelompok lekaka telenggeng',puncak,''
+'polri dalami kasus tembak papua','',16/3
+'raider brimob kejar tembak karyawan pt modern','',15/3/2016
+'remaja tewas darah genggam pistol makam gorongan',depok,18/03/2016
+'tni polri buru pelaku tembak papua',surabaya,15/3
+'temu janin sungai gempar kota',magelang,17/3/2016
+'jasad temu sungai cimandiri nali sidik jari',sukabumi,12/3/2016
+'jatuh kapal tanker ajar jakarta tewas',batam,20/3/2016
+'karyawan hotel tewas gantung',ternate,17/3
+'mayat wanita kebun tebu geger jatibarang',semarang,20/3/2016
+'temu potong kaki diperban jembatan waena',jayapura,19/3/2016
+'tulang belulang utuh temu kawasan situs kota cina',medan,16/3
+'bupati adb bicara terang',batang,20/3
+'bocah 11 aniaya ayah kandung',kampar,15/3/2016
+'bupati papua tuding kelompok tembak 4 karyawan',puncak,''
+'aniaya kades ibu tangga adu lsm','',15/3/2016
+'hakim tunda sidang praperadilan kasus novel baswedan pn',bengkulu,14/3/2016
+'alas hakim tunda sidang gugat praperadilan kasus novel baswedan','',14/3/2016
+'lepas pelaku kdrt polisi demo',bandung,16/3/2016
+'kakek bantai sabit karat','',15/3/2016
+'sidang kasus salim kancil tosan ungkap aniaya',lumajang,25/2
+'bocah aniaya polisi periksa jiwa sang ayah',pekanbaru,16/3/2016
+'menteri minta mahasiswa bantu awasi dana',makassar,satgas
+'13 toko gusur bandara sam ratulangi luas',ternate,15/3/2016
+'selesai perintah eksekusi paksa karang','aceh barat',17/03/2016
+'kantongi izin bangun makan cindelaras roboh',binjai,16/3
+'kota nominasi earth hour city challenge',balikpapan,''
+'wali kota risma nomine ideal mother award mesir',surabaya,''
+'ruas tol cipali hijau 30 pohon',subang,''
+'kisi air waduk jatigede 40',sumedang,17/3
+'oplos gas ledak 9 rukan hancur',bogor,16/3/2016
+'tipu puluh datangi kantor kembang',yogyakarta,4/2
+'polda bali buru 2 bandar arisan fiktif',denpasar,''
+'prt curi gadai sertifikat majikan',magelang,11/3/2016
+'ratus tipu investasi online miliar rupiah',gorontalo,15/3/2016
+'suami tangkap istri tipu','aceh timur',25/2/2016
+'kesal bakar motor jambret',makassar,18/3/2016
+'pns korban jambret belanja','kepulauan talaud',18/3/2016
+'gagal kabur tabrak becak pelaku jambret amuk massa',padang,24/4/2015
+'pasutri kompak jual gadis jawa timur',jember,15/3/2016
+'berkas sindikat jual ginjal limpah jaksa',bandung,''
+'tolak reklamasi teluk benoa ratus bali turun',tuban,20/3/2016
+'acbn xanana sebut wiji thukul rakit bom',bima,''
+'mbak pon percaya wiji thukul bikin bom','',''
+'menhan timor leste bantah wiji thukul selundup bom',baru,''
+'ndorokakung soal wiji thukul rakit bom',baru,''
+'fitri nganthi wani soal tuding wiji thukul','',''
+'wiji thukul hilang jawa timor leste',magelang,22/7/1996
+'sampah kota capai 911 ton',madiun,16/3
+'432 guru bantu riau gaji','indragiri hulu',17/3
+'kemplang pajak rp 27 miliar usaha lampung bui','',14/3/2016
+'puluh dbd chikungunya',bima,15/3/2016
+'takut kena antraks konsumsi daging',pinrang,''
+'antraks rebak omzet dagang sate coto turun drastis',pinrang,''
+'sampel darah 41 duga antraks kirim',makassar,8/2/2016
+'pasien duga kena antraks',pinrang,14/3/2016
+'korban antraks tambah',pinrang,14/3/2016
+'wow duta kusta who basuh kaki derita',mojokerto,''
+'cari korban hanyut sungai maloso paranormal tim selam kerah','polewali mandar',16/3/2016
+'oso kecewa artis hina pancasila','',''
+'pidato bupati bikin heboh pemda',karawang,''
+'tantowi yahya sesal nyata zaskia gotik','jakarta selatan',''
+'polisi gagal selundup senjata api penjara',langsa,14/3/2016
+'pt rimba lazuardi 3 karyawan kritis 5 alat bakar','',17/3/2016
+'sidang praperadilan kasus novel baswedan jaga ketat',bengkulu,14/3/2016
+'anggota provost polda jateng korban begal',demak,''
+'sepeda turis kanada korban rampas',medan,14/3/2016
+'bertamu saudara kaca mobil pecah maling',bantul,''
+'enam begal sepeda motor ringkus',medan,''
+'gasak uang rp80 rampok rekam cctv',bondowoso,18/3/2016
+'jambret tas wisatawan ajar tewas massa',badung,''
+'kawan rompak air banyuasin bekuk','',18/3/2016
+'niat tolong rampok',medan,19/3/2016
+'rampok kuras isi dosen stain',pamekasan,9/9/2013
+'polisi tembak kawan pelaku bobol gudang industri',makassar,''
+'bobol maling emas 5 kg usaha raib',jombang,''
+'9 rampok emas tembak',tabalong,19/10/2010
+'desak utang jual mi rampok tetangga','',16/3/2016
+'earth hour tugu yogya puluh remaja tetap asyik selfie',yogyakarta,''
+'raya earth hour hotel yogya hemat 30',yogyakarta,''
+'polisi siap raya santa flores timur','flores timur',20/3/2016
+kepuharjo,sleman,18/3
+'raya bojongsoangdayeuhkolot kendara',bandung,14/3/2016
+'indonesia malaysia kembang batas',sidoarjo,''
+'3040 pasang aju cerai',indramayu,17/3
+'matahari luncur gerai 141 lombok','lombok barat',26/11
+'jaga damai aceh','banda aceh',19/2
+'hadapi mea ppni dorong rawat laku praktik mandiri',yogyakarta,12/3
+'21 mangkrak tol surabayamojokerto selesai',mojokerto,19/3
+'jatim jokowi resmi tol sumo panen',mojokerto,''
+'presiden jokowi resmi tol surabayamojokerto',mojokerto,''
+'presiden resmi proyek infrastruktur jawa timur',sampang,''
+'jokowi resmi tol surabayamojokerto',sidoarjo,19/3
+'puluh sambut jokowi',mojokerto,19/3
+'buku tulis beri jokowi foto nang semangat ajar',sampang,''
+'jokowi resmi waduk nipah gagas era orde',sampang,19/3/2016
+'ingat bahaya bencana pasang kawasan darajat',garut,19/3
+'masya allah awan lazaf allah langit',yogyakarta,16/3
+'awan lafaz allah gempar lereng rapi',magelang,16/3/2016
+'calon pengantin pria korban foto prewedding temu tewas','bener meriah',16/3/2016
+'foto prewedding pasang calon pengantin seret arus sungai','bener meriah',15/3/2016
+'libat kelahi napi lapas alami luka bacok',pamekasan,14/3/2016
+'ndorokakung minta maaf keluarga wiji thukul',baru,''
+'mantu gubernur jatim penuh sesak batal hadir jinjing sepatu',surabaya,19/3/2016
+'gubernur jatim mantu tamu non vip antre tunggu jokowi',surabaya,19/3/2016
+'jokowi sby mantu gubernur jatim',surabaya,19/3/2016
+'41 kabupaten kuasa usaha kebun sawit',mukomuko,16/3/2016
+'ridwan kamil kawal toilet lampu',bandung,14/12
+'t kucur rp 96 miliar tani bolango','bone bolango',''
+'uskup agung tuan temu muda seasia',semarang,15/3/2016
+'pesawat carter menteri esdm njutnjutan',dumai,25/11
+'korban phk jabar capai 6000',majalengka,6/10
+'pemprov riau khawatir phk massal sektor migas',pekanbaru,migas
+'piala kayu jati karya muda aceh',bireuen,20/3/2016
+'pilkada banten pdip anak emas rano karno',serang,16/3/2016
+'4 calon ketua golkar gagal pikat kader sumatera','',''
+'ahmad dhani berani calon pilkada',surabaya,9/6
+'ahok calon independen buya syafii partai introspeksi',yogyakarta,''
+'buntut pilkada jabat luwu undur','luwu utara',9/12/2015
+'bupati luang ahok menang','',15/2/2017
+'demam ahok pilih ahok',manado,''
+'demokrat usung adik ani yudhoyono pilkada banten',serang,14/3/2016
+'dpr sulit calon independen ahok jegal','',''
+'dukung duet ahmad dhaniarzeti pilkada kuat',surabaya,''
+'fadli zon revisi uu pilkada calon independen','',''
+'garin nugroho niat maju calon wali kota',yogyakarta,''
+'hitung cepat gatoterry unggul 3284',metro,7/3/2013
+'hubung darah politik subur nepotisme','ogan ilir',23/6/2015
+'jk minta mesin partai golkar menang pilkada',mataram,4/7
+'kalah pilkada sa mustopa hengkang nasdem',karawang,9/12/2015
+'kpu bantah seleksi sehat calon daerah maksimal','ogan ilir',15/3/2016
+'kpu jateng rumus strategi capai target pilih',semarang,9/12/2015
+'kpu usul pasang bukti politik uang diskualifikasi','',12/3
+'maju pilgub tantowi yahya cari simpati banten',serang,12/2
+'ngaku partai rano karno siap',serang,15/3/2016
+'nofiadi lolos pilkada bnn tes sehat beres','ogan ilir',''
+'pdip minta risma bawa isu pilkada dki',surabaya,''
+'pdip usung rano karno gubernur banten',cilegon,''
+'pdip yogya gandeng pan pilkada 2017',yogyakarta,17/3
+'pilih gubernur urus kpu bali',denpasar,8/3
+'pilih wali kota yogya jaring calon independen',yogyakarta,''
+'calon independen idrus marham tara partai','ogan ilir',''
+'pilkada 2017 sby target demokrat menang 35',surabaya,''
+'pilkada siantar tetap gelar 2016',medan,9/12/2015
+'pks kantongi pilgub jabar',bandung,2/3
+'integritas hanura dukung ahok pilkada 2017','',''
+'revisi uu pilkada nilai jegal ahok akom','',''
+'ridwan kamil goda pilkada dki jakarta',bandung,25/2
+'senator sulawesi daftar relawan ahok','bolaang mongondow',''
+'tour de java demokrat sby konsolidasi pilkada',surabaya,''
+'pohon lontar cabang',kupang,20/3/2016
+'cinta restu ketua dprd tarik mobil jazz calon istri ke12',bengkayang,15/3/2016
+'ketua dprd akui unggah foto calon istri ke12 cinta',bengkayang,15/3/2016
+'wanita foto unggah ketua dprd facebook istri ke12',bengkayang,13/3/2016
+'balita imunisasi polio',tasikmalaya,8/3
+'balita imunisasi polio',tasikmalaya,20/3
+'anggota polres pecat',jambi,17/3
+'aher alih dana pon',bandung,18/3/2016
+'dongkrak populasi kerbau daerah bangun gembala',brebes,''
+'foto syur duga anggota dprd edar medsos',pamekasan,16/3/2016
+'foto syur duga oknum anggota dprd edar facebook',pamekasan,16/3/2016
+'soal foto syur hormat dprd ragu',pamekasan,17/3/2016
+'wanita foto unggah ketua dprd facebook istri ke12',bengkayang,13/3/2016
+'raih harga australia kang emil hatur nuhun',bandung,15/3
+'10 ajar beasiswa kuliah cina',boyolali,16/3
+'mahathir mohamad terima gelar doktor honoris causa umy',yogyakarta,20/12/1925
+'umy beri gelar doktor hormat mahathir mohammad',yogyakarta,''
+'target produksi jagung yakin capai',bandung,''
+'anggota dprd libat foto syur minta mundur',pamekasan,18/3/2016
+'pelaku prostitusi online butuh mucikari',pamekasan,29/6
+'polisi selidiki praktik prostitusi apartemen',bandung,4/3
+'anggota dprd diy sarkem beda kalijodo',yogyakarta,15/03/2016
+'anggota dprd diy sarkem beda kalijodo',yogyakarta,15/3/2016
+'serius wacana pindah psk kalijodo jateng wujud',sukoharjo,18/2/2016
+'bareskrim ungkap sindikat jual pulau jeju','',27/1/2016
+'cegah prostitusi ulang bordil beli pasang cctv',banyuwangi,24/2/2015
+'gaya siswa smp jual',medan,28/1
+'kampung preman kalijodo pilih sopir angkot','polewali mandar',29/2/2016
+'germo psk satpol pp',padang,19/3/2016
+'ganjar jateng siap tampung seks kalijodo',sukoharjo,18/2/2016
+'ganteng humoris dokter tri idola psk sarkem',yogyakarta,6/7/1972
+'jawa siap tampung eks psk kalijodo',surakarta,18/2/2016
+'jual muncikari mahasiswi ancam 15 penjara',medan,15/3
+'komentar eks dolly soal tertib kalijodo','jakarta utara',22/2/2016
+'menpan larang giat ganggu huni hotel',medan,27/12
+'pelaku prostitusi online butuh mucikari',pamekasan,29/6
+'tertib pkl rakyat ricuh',medan,''
+'usaha jateng siap sambut eks psk kalijodo',semarang,26/2/2016
+'polisi bali gelar razia antisipasi eksodus psk kalijodo',denpasar,26/2/2016
+'polisi selidiki praktik prostitusi apartemen',bandung,4/3
+'ratus prostitusi bongkar',indramayu,19/3/2016
+'satpol pp bongkar bangun eks lokalisasi',banjarmasin,3/2
+'sukses prostitusi dolly risma jurus','jakarta utara',15/2/2016
+'terima sebut lacur asisten dokter ibu polisi',ambon,15/3/2016
+'ungkap modus dagang indonesia',batam,15/1/2016
+'tetes air mata warnai ibadah jemaat gereja kalijodo','',28/2/2016
+'wanita hibur jalur sumbarriau',baru,12/3
+'desak jokowi henti proyek tol bakar ban',mojokerto,19/3/2016
+'24 tongkang isi ton bara ditahan','murung raya',17/3
+'jokowi proyek hambalang pelatnas rusunawa',bogor,18/3/2016
+'15 proyek sky walk cable car',bandung,15/3/2016
+'cantik ridwan kamil kebut 15 proyek jumbo',bandung,''
+'sby sindir ganjar soal stadion',semarang,15/3/2016
+'proyek nelayan luwu timur kacau','luwu timur',''
+'jokowi sedih lihat proyek hambalang mangkrak','',''
+'guna tanah keraton gunung kidul aju surat kancing','gunung kidul',20/3
+'wanita hibur jalur sumbarriau',baru,12/3
+'polda sumut selidiki oplos 65 ton pupuk subsidi',medan,16/3
+'t soenmandjaja ketidakadilan sosial cipta radikalisme','',''
+'undangberita kait','',17/3
+'produktivitas naik dpr sahkan 6 undangundang','',''
+'oesman dukung regulasi transportasi','',''
+'ogohogoh tolak reklamasi siap aksi taman ngurah rai',tuban,20/3/2016
+'tolak reklamasi teluk benoa tambah',tuban,''
+'reklamasi teluk benoa menteri siti nurbaya dengar suara masyarakat','',''
+'tolak reklamasi bandara ngurah rai koordinasi aparat',denpasar,20/3/2016
+'tolak reklamasi teluk benoa bali siap macet','',20/3/2016
+'soal reshuffle kabinet jk tunggu','',''
+'menteri agama revisi sistem ehajj ibadah haji','',''
+'harga cabaibawang lonjak tpid bali gelar pasar murah',denpasar,18/3
+'pintar gagas ibu ani yudhoyono',semarang,15/3/2016
+'gulung kulit kabel temu goronggorong kota',bandung,17/3
+'kabel goronggorong nyata pt pln',bandung,''
+'pemkot telusuri kabel goronggorong',bandung,''
+'ridwan kamil beda kabel goronggorong jakarta',bandung,''
+'jakarta kabel goronggorong',bandung,''
+'kisah suami istri rintis warung bayar sampah plastik bangkrut',rembang,''
+'sampah kirim kota',bandung,14/3/2016
+'makan warung bayar sampah plastik',semarang,14/3/2016
+'sampah ledak bakar bocah luka',bireuen,20/3/2016
+'minta pisah sampah baterai',yogyakarta,19/3
+'uang madu',sanggau,17/3/2016
+'paket tulis mie ramin isi biawak telinga',pontianak,14/3/2016
+'tobasa temu satwa liar kambing hutan','toba samosir',18/3/2016
+'lepas habibat asli 150 kakatua rehabilitasi','halmahera utara',17/3/2016
+'bayi orangutan temu serah bksda','kotawaringin timur',16/3
+'ganggu aktivitas buaya ukur 4 meter tangkap',kupang,17/3/2016
+'miris daging bekantan umpan pancing kepiting',batu,16/3/2016
+'orangutan nak baju evakuasi',sanggau,17/3/2016
+'populasi elang gunung rapi tambah','',15/3/2016
+'pasang elang tiram rekam terbang danau limboto',gorontalo,17/3/2016
+'oso hilang sejarah murtad','',*
+'giat sd inpres kelapa merana',kupang,22/10/2012
+'sekolah kelapa dukung',kupang,22/10/2012
+'polisi pasang plang larang celaka sakit',sarmi,''
+'sembako langka minyak goreng batas rp 200000 liter',malinau,17/3/2016
+'kian isolasi bahan pokok suplai terbang rintis',malinau,17/3/2016
+'htbupati bicara soal pemberdayaan masyarakat',purbalingga,16/3/2016
+'mahasiswa unsoed antusias sambut ht','',''
+'halangi gua pindul','',7/3/2013
+'jaksa agung serah tol sita pt hutama karya','',''
+'perintah kebut bebas tanah tol surabayamojokerto',surabaya,''
+'pertamina gugat rp 125 miliar',dumai,7/4
+'wajib ukm syariah sertifikasi halal',kerinci,19/3
+'tito karnavian bnpt ganti kapolda jabar',karo,''
+'korban sodomi berani motivasi kasus saipul jamil',magelang,14/3/2016
+'korban muda sodomi 8 bocah',palembang,16/3/2016
+'siswa sd paksa sodomi waria',labuhanbatu,11/3/2016
+'waria labura 2 paksa siswa sd sodomi',labuhanbatu,''
+'rz salur 600 superqurban kabupaten',bandung,14/3
+'suryadharma ali rawat rspad gatot subroto','',''
+'napi pesan senjata api lari lapas',langsa,15/3/2016
+'potong jeruji besi tahan lari',singkawang,16/3/2016
+'kabur tahan pelaku aniaya polisi tangkap',batu,15/3/2016
+'tahan polsek belawan kabur jebol lubang angin',medan,15/3/2016
+'gurandil tewas tambang ilegal pongkor',bogor,15/3
+'pemprov jateng minta serius tertib tambang liar',semarang,20/3
+'tanah gerak panggung kampung dongkrak',tasikmalaya,''
+'tangki minyak mentah pertamina ledak',pekanbaru,15/12
+'tangki pertamina ledak',dumai,15/12
+'tokoh madura minta jembatan suramadu gratis','',4/2
+'siswa ajar kolong sekolah',luwu,''
+'bbksda tangkap buaya resah nelayan',kupang,17/3
+'bendera isis makam teroris',sukoharjo,''
+'anggota kelompok teroris santoso tewas tembak china',poso,15/3/2016
+'bapak tukang bom','',18/3/2016
+'bupati cellica klarifikasi soal pikir korslet',karawang,''
+'anggota kelompok santoso tewas tembak polisi sita ransel isi bom',poso,15/3/2016
+'jasad duga teroris sakinah jaya identifikasi','parigi moutong',3/4
+'kbri damaskus selamat tki sarang isis',sumbawa,''
+'khawatir teroris bupati cellica atur khotbah',karawang,13/2/2016
+'kisah tki tahan sarang isis',sumbawa,2/2/2011
+'lahan makam azan pelaku teror sarinah',indramayu,28/1
+'mui teror ranah politik','',''
+'putri widji thukul bapak tukang bom','',18/3/2016
+'baku tembak kelompok santoso lari hutan',poso,15/3/2016
+'soal penjara teroris tanggap menteri yasonna','jakarta pusat',''
+'duga teroris tewas baku tembak densus 88',bima,15/2
+'duga teroris tewas cina',poso,''
+'tito karnavian besok lantik bnpt istana',metro,''
+'tnipolri baku tembak kelompok santoso luka',poso,15/3/2016
+'kasus tki gabung isis bekal libat tni',semarang,12/3/2016
+'baku tembak polisiteroris uighur tewas',palu,''
+'bali daerah merah sasar teror gubernur siap hadapi rang',denpasar,17/3/2016
+'bnpt jakarta bali status daerah merah',denpasar,17/3/2016
+'cerai istri kejar surga janji isis',metro,13/3/2016
+'densus 88 tangkap enam kelompok santoso sulteng',poso,31/12
+'kira teroris tangkap buruh kertas bikin heboh',semarang,13/3/2016
+'tito karnavian hadap teroris','jakarta pusat',''
+'jenazah percaya santoso bawa solo','',17/03/2016
+'jenazah duga teroris bumi solo',surabaya,''
+'kapolda duga teroris tewas baku tembak',poso,''
+'kapolda sulteng santoso tangkap',poso,14/3/2016
+'kopassus turun buru santoso kapolda bantu',poso,9/3
+'2 duga teroris kelompok santoso tewas baku tembak',poso,17/3/2016
+'duga teroris pulang',poso,18/3
+'menteri retno bantah janji rahasia israel','',''
+'polda papua tangkap lekagak telenggen mati',puncak,''
+'polda sulawesi duga anak buah santoso',poso,15/3
+'polisi siaga 1700 personel samanta santa','flores timur',''
+'siswa duga pelaku teror bom kena wajib',banjarmasin,20/2
+'sel baasyir bebas lapas nusakambangan',cilacap,20/3/2016
+'pidana kasus teroris lp nusakambangan bebas',cilacap,20/3
+'bersih simbong tewas sengat',mamasa,20/3/2016
+'sosialisasi tertib berlalulintas polisi bagibagi helm bunga',manado,''
+'bupati bongkar paksa puluh tiang telepon',purwakarta,18/3
+'polisi bongkar jaring kirim tki bodong','',''
+'buruh migransaudi kasus siti fatimah aneh',cilacap,16/7/2011
+'duga stres penjara malaysia tki lompat bendung',padang,19/3/2016
+'telusur soal tki sandera 14 arab saudi',semarang,18/3/2016
+'perintah buru teliti muda indonesia',bandung,''
+'bandar togel cokok polisi',manado,19/3
+'main judi togel dagang cambuk',bireuen,18/3/2016
+'gusdurian kunjungi gereja natal',malang,25/12
+'pemkot luncur bayar tiket elektronik trans',bandung,11/3
+'manusia kelamin ganda temu',bone,28/2/2012
+'halte transjogja tambah 12 titik',yogyakarta,10/3
+'bali tunggu tunjuk soal taksi uber grab','',16/3
+'pemkot luncur bayar tiket elektronik trans',bandung,11/3
+'derita tumor tahahir napas bantu selang',bireuen,14/3/2016
+'sampah pantai capai 11 ton',padang,4/1
+'volume sampah 30 ton',banjarmasin,4/1
+'rawan tuli',gresik,30/11/2012
+'bantu maju bupati','aceh utara',20/3/2016
+'tunggakan bpjs pesisir rp 745','pesisir selatan',4/6
+'tunggakan pajak capai rp135 miliar',subang,17/3/2016
+'hantam udara panas rendam tugu adipura',medan,20/3/2016
+'minum air teguh biar tenang',tuban,15/4/2011
+'sekolah minta genjot kualitas siswa jelang uji nasional','minahasa tenggara',19/3
+'pecah kaca unjuk puluh siswa smk ubah anarkistis','polewali mandar',19/3/2016
+'adat bali turun tolak reklamasi',tuban,20/3/2016
+'gianyar gelar upacara ngerebeg usir setan','',''
+'kalteng setop pasokan itik kalsel','palangka raya',12/3
+'masyarakat kalsel takut makan daging unggas','',9/3
+'pemprov kalsel saran lintas unggas',banjarmasin,''
+'pengusahapeternak unggas sumbar imbau sinergi',padang,''
+'duh ratus balita kepri infeksi virus hiv',batam,16/3
+'wabah tetelo unggas tapanuli','tapanuli utara',7/7
+'presiden tinjau waduk jatigede',sumedang,31/8/2015
+'jokowi resmi operasi waduk nipah madura',sampang,19/3
+'jokowi resmi waduk nipah gagas era orde',sampang,19/3/2016
+'resmi waduk nipah jokowi jaga 820 personel polri',sampang,19/3/2016
+'kabar bj habibie wakaf jerman asisten ngawur',gorontalo,''
+'perempuan identitas temu tewas kebun tebu',semarang,20/3
+'olah sagu objek wisata kuliner','indragiri hilir',16/3
+'wisata bangsa sepi kunjung',situbondo,2/5/2015

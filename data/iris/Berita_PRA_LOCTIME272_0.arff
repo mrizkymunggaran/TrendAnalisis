@@ -1,0 +1,278 @@
+@relation LocationAndTime
+
+@attribute location string
+@attribute time string
+
+@data
+tuban,21/4
+'kutai timur',''
+demak,20/4
+'jakarta barat',19/5/2013
+'ogan komering ulu selatan',27/4
+poso,''
+'bone bolango',14/5
+'pidie jaya',5/5
+'jakarta timur',7/5/2013
+mamuju,20/4
+'kuantan singingi',6/5
+tasikmalaya,20/4
+sampang,11/6
+'kutai kartanegara',19/4
+mamuju,''
+'mandailing natal',''
+sijunjung,2/5
+'jakarta pusat',17/4
+'nagan raya',7/5/2013
+klaten,21/4
+'jakarta timur',25/4/2013
+'jakarta timur',17/4
+payakumbuh,''
+'jakarta barat',''
+demak,21/4
+'bandar lampung',30/4
+demak,14/4
+'',1/5
+pekalongan,5/8/2015
+pekalongan,''
+pamekasan,''
+pamekasan,12/6/2013
+'',''
+banjarnegara,19/4
+baru,1/5
+banjarnegara,19/4
+banjarnegara,''
+'timor tengah utara',6/8/2015
+'lampung barat',''
+'lampung selatan',''
+batang,''
+padang,12/6/2013
+ternate,16/8/2015
+ende,8/8/2015
+tolikara,''
+'pesisir selatan',''
+tasikmalaya,5sr
+simeulue,''
+'maluku tenggara barat',''
+'',20/4
+padang,''
+'maluku barat daya',''
+klungkung,6/8/2015
+banjarnegara,19/4/2013
+banjarnegara,19/4
+'lampung barat',''
+banjarnegara,25/4
+banjarnegara,19/4/2013
+bandung,6/5
+bengkulu,''
+banjarnegara,19/4
+batang,20/4
+padangsidimpuan,''
+banjarnegara,19/4
+semarang,19/5
+pekanbaru,19/5
+pekanbaru,''
+pekanbaru,18/5
+makassar,15/5
+'jakarta pusat',18/5
+bandung,''
+yogyakarta,15/5
+semarang,18/9/2012
+pekanbaru,16/5/2013
+makassar,15/5/2013
+yogyakarta,18/4/2013
+pekanbaru,9/5/2013
+bandung,19/5
+cirebon,''
+baru,19/5
+medan,''
+batam,22/8/2015
+'deli serdang',23/8/2015
+semarang,''
+magelang,22/8/2015
+palopo,6/8/2015
+medan,22/8/2015
+'tana toraja',24/8/2015
+cirebon,24/8/2015
+makassar,''
+medan,22/8/2015
+'palangka raya',12/8/2015
+'jakarta barat',4/5
+cirebon,''
+manado,24/5
+'jakarta barat',4/5
+medan,22/8/2015
+cianjur,20/5/2013
+demak,14/8/2015
+batam,27/4
+'jakarta selatan',23/4
+'jakarta timur',5/5
+batam,27/4
+pekanbaru,''
+batam,27/4
+magelang,21/8/2015
+makassar,20/4/2013
+bekasi,''
+sukabumi,28/4
+sukabumi,15/8/2015
+jayawijaya,8/5
+'mandailing natal',19/5/2013
+'tangerang selatan',12/8/2015
+'kepulauan sula',22/8/2015
+'gunung mas',24/11/2011
+probolinggo,4/8/2015
+batu,6/5/2013
+'',25/4
+cirebon,24/8/2015
+garut,''
+'',7/5
+'',18/4/2013
+'',25/5/2013
+karanganyar,22/5/2013
+karanganyar,22/5/2013
+semarang,22/4
+bekasi,23/4
+medan,20/5/2013
+jayapura,18/6/2013
+yogyakarta,2/5
+denpasar,2/5
+'',7/5/2013
+palopo,5/5/2013
+'seram bagian barat',6/8/2015
+medan,3/5
+'nias selatan',12/8
+'',6/5
+'',27/5/2013
+'',16/4
+'',6/5
+bekasi,''
+bogor,24/4
+denpasar,2/5/2013
+sukabumi,14/4
+tegal,2/5
+yogyakarta,24/4
+'',14/5/2013
+'',5/5
+yogyakarta,22/8/2015
+yogyakarta,24/4
+bandung,24/4
+'',''
+surabaya,''
+trenggalek,8/8/2015
+'nias selatan',13/8/2015
+mamuju,''
+denpasar,6/8/2015
+baru,''
+depok,25/4
+tangerang,13/5/2013
+sampang,23/8/2015
+sleman,25/4
+pekanbaru,8/8/2015
+batang,15/8/2015
+yogyakarta,25/4
+subang,21/5
+kendari,20/4
+malang,4/8/2015
+kendari,16/4/2013
+kupang,4/5
+bandung,12/8/2015
+bandung,''
+'jakarta utara',30/4
+bandung,19/6/2015
+bekasi,25/4
+manado,6/8/2015
+pontianak,24/4/2013
+tangerang,14/4
+karanganyar,11/6/2015
+samosir,6/8/2015
+'',22/8/2015
+depok,''
+bantul,22/8/2015
+semarang,21/8/2015
+'jakarta utara',14/5/2013
+palembang,29/4/2013
+kendari,''
+bandung,13/6/2015
+bekasi,24/4/2013
+natuna,14/4/2013
+'jakarta utara',14/5
+'jakarta selatan',27/5/2013
+pekanbaru,''
+pekanbaru,1/5
+bekasi,''
+'jakarta selatan',23/4
+bandung,15/8/2015
+'tanjung pinang',23/8/2015
+karanganyar,''
+natuna,14/4/2013
+lebak,13/8/2015
+'ogan komering ilir',23/4
+pekalongan,5/8/2015
+depok,14/4/2013
+'muara enim',21/8/2015
+medan,24/8/2015
+'jakarta timur',15/5
+denpasar,24/4
+bekasi,28/4
+baru,23/5/2013
+tasikmalaya,28/4/2013
+klaten,15/5
+jambi,7/8/2015
+'',21/5/2013
+kampar,26/4/2013
+'serdang bedagai',''
+'tangerang selatan',25/4
+semarang,14/8/2015
+'tanjung jabung timur',''
+bekasi,29/4/2013
+pekanbaru,6/8/2015
+tuban,28/4
+bima,22/8/2015
+'tanjung jabung timur',14/5
+temanggung,13/8/2015
+'jakarta timur',''
+'tanjung balai',''
+bekasi,28/4
+garut,28/4
+'tangerang selatan',14/6/2013
+bekasi,18/4
+'tangerang selatan',24/5
+metro,30/4
+kampar,26/4
+bekasi,12/6
+baru,''
+tegal,7/8/2015
+'serdang bedagai',16/4/2013
+bogor,18/4/2013
+semarang,8/5
+bandung,''
+'jakarta pusat',2/5
+batang,25/5
+depok,27/5
+cianjur,30/4/2013
+batang,21/5/2013
+bangka,''
+bangka,3/5
+bangka,2/5
+surakarta,''
+poso,23/08/2015
+bangka,2/5
+pekanbaru,6/8/2015
+'',''
+'jakarta selatan',29/4
+batu,''
+palu,24/4
+poso,''
+cilacap,2/5/13
+poso,19/4/2013
+bangka,3/5/2013
+kendal,8/5
+surakarta,''
+bandung,''
+bandung,15/5
+bandung,14/5/2013
+karo,2/5
+bangka,2/5
+poso,3/6/2013
+batu,''
+bandung,10/5/2013
+'jakarta selatan',3/5

@@ -1,0 +1,22 @@
+@relation LocationAndTimeAndSubtittle
+
+@attribute subtittle string
+@attribute location string
+@attribute time string
+
+@data
+copy,mamuju,''
+'',mamuju,''
+copy,serang,24/8/2015
+copy,siak,22/8/2015
+copy,dumai,''
+copy,pekanbaru,12/8/2015
+copy,bandung,8/8/2015
+'',bandung,8/8/2015
+'','indragiri hilir',4/8/2015
+'','',23/8/2015
+'',medan,22/8/2015
+copy,magelang,24/8/2015
+'',cirebon,''
+'',makassar,''
+'',bima,6/8/2015

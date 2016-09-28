@@ -1,0 +1,168 @@
+@relation LocationAndTimeAndSubtittle
+
+@attribute subtittle string
+@attribute location string
+@attribute time string
+
+@data
+'polisi luka bubar bentrok',palu,''
+'bentrok suporter psis pecah',grobogan,6/5
+'bentrok demo bbm',makassar,''
+'bentrok tni 10 luka serius',kebumen,22/8/2015
+'delapan bentrokan karaoke bekuk',tangerang,15/5
+'kelompok napi salemba bentrok',palembang,24/5/2013
+'guru silat serang kendara jalur trans timor macet',kupang,5/8/2015
+'personel tni au luka parah relokasi',palembang,''
+'buruh luka bentrokan ormas',indramayu,''
+'unjuk buruh bentrok',surabaya,''
+'dns nawala temu 600 situs dagang palsu',name,''
+'retas serang laman pemkot tanjungpinang','',''
+'residivis kuras harta usaha rp408 badoocom',garut,5/8/2015
+'situs divisi hukum mabes polri acak hacker',tegal,18/5/2013
+'14 imigran gelap afghanistan',sukabumi,20/4
+'53 imigran gelap tangkap tuban bojonegoro',rembang,28/4/2013
+'76 imigran myanmar evakuasi kantor polres sampang',cilacap,20/4
+'aksi keras jelang pilu malaysia','',25/4
+'caleg tewas lbh aceh nilai tegak hukum lemah','',27/4/2013
+'nyata menko polhukam kait insiden',sorong,''
+'260 lapar somalia','',''
+'25 mahasiswa universitas al azhar duga racun makan','',4/5
+'tertib pasar ricuh 1 tewas','jakarta selatan',18/4/2013
+'polisi sembilan mahasiswa duga provokator ricuh','',1/5
+'soundrenaline bandung rusuh',cirebon,20/4/2013
+'130 tewas perang suku sudan','',''
+'21 tewas kurusuhan xinjiang china','',''
+'17 anggota dprd langgar disiplin',temanggung,15/4
+'palsu edar turun','',23/4/2013
+'10 perempuan korban langgar ham saksi',kupang,27/4
+'tewas tembak senapan polisi',makassar,4/5/2013
+'tujuh peras hercules','jakarta barat',16/4/2013
+'anggota dewan cabuli gadis umur',sampang,15/4
+'cabuli gadis belia tani cari polisi',simalungun,5/8/2015
+'simpan uang palsu ratus dukun istri bekuk',malang,5/8/2015
+'aparat lukai dagang stasiun pasar','jakarta selatan',18/4
+'mahasiswi trisaksi todong pistol kasih','jakarta selatan',25/4
+'todong senjata anggota dprd tangkap',langkat,''
+'oknum mahasiswa its libat joki umm',malang,''
+'joki umm libat sindikat',malang,15/5/2013
+'polisi selidiki kelahi senjata',pamekasan,4/5
+'korban tanah retak ancam lapar',garut,22/7/2013
+'polisi selidiki bakar pabrik garmen',sukabumi,28/4
+'gadis daki tewas timpa batu meru',sukabumi,12/8/2015
+'karyawan pabrik kasus mi formalin',yogyakarta,27/4
+'pabrik kosmetik ilegal purwokerto digerebek',banyumas,15/5
+'cctv rusak man 1 batam bobol rp140 raib','',12/8/2015
+'pukul puluh murid sekolah polisi',kolaka,13/8/2015
+'kibar merah putih puncak gunung jayadi tewas daki',barru,16/8/2015
+'maling tewas hajar massa','padang lawas',27/4
+'kades mursan keluarga',lebak,''
+'coba curi siswa smp pecat sekolah',padang,3/5/2013
+'352 korban tewas rana plaza dinyatakantersangka','',23/4
+'cuaca buruk menakertrans batal pimpin evakuasi korban freeport','jakarta pusat',19/5/2013
+'korban tewas bom tni uang sby',situbondo,4/5/2013
+'bangun tewas jatuh 25 meter',lubuklinggau,''
+'bongkar sekolah sma 17 jerat kurung',yogyakarta,17/5
+'22 korban longsor freeport evakuasi',mimika,19/5/2013
+'ahok geram pungli sekolah','',15/4
+'evakuasi korban big gossan selesai',bone,14/5/2013.rabu
+'akun benhan',metro,24/5/2013
+'bea cukai gagal seludup beras impor','banda aceh',24/5
+'polisi gagal selundup 368 drum bbm illegal','',20/5/2013
+'cuaca buruk tani ancam rugi','tapanuli utara',11/5
+'28 hektare tanam padi bangkal gagal panen',bangkalan,5/8/2015
+'kabut asap selimuti kota',dumai,14/4
+'15 hektar tembakau tumbuh kerdil',pamekasan,14/8/2015
+'enam daerah alami krisis air bersih',bandung,7/8/2015
+'selundup pupuk subsidi timor leste gagal','timor tengah utara',5/5
+'aiptu labora sitorus resmi ditahan rutan bareskrim','jakarta selatan',18/5
+'polisi rekening rp 15 triliun ditahan','jakarta selatan',19/5
+'aiptu labora sitorus tangkap bareskrim','raja ampat',19/5/2013
+'pelindo tuding langgar uu layar',sorong,16/4
+'sukotjo akui palsu dokumen lelang','',24/5/2013
+'gelap dana jamsostek usaha polisi',yogyakarta,6/5
+'inap izin digerebek tunjuk bukti setor pajak resmi',bireuen,4/8/2015
+'duga tipu ratus nasabah investasi emas demo',bandung,30/4
+'aktivitas gunung raung bandara ngurah rai',badung,6/8/2015
+'cuaca buruk darat alih',padang,7/5/2013
+'selimut abu vulkanik gunung raung',banyuwangi,6/8/2015
+'kabut asap lagilagi ganggu terbang',jambi,15/4/2013
+'polda sumsel polsek bakar musi rawas','musi rawas',29/4
+'rugi gempa dieng capai rp 1 miliar',banjarnegara,19/4
+'kapal tanker ledak tanjung bara kutai timur','kutai timur',''
+'unit sepeda motor bakar',madiun,''
+'pukul tni satpam dpp pdip','jakarta selatan',20/4/2013
+'konvoi lulus un ricuh','bone bolango',''
+'ricuh kantor pdip 10 tentara periksa','jakarta selatan',21/4/2013
+'masjid ahmadiyah bakar massa kenal',tasikmalaya,3/5
+'27 balak liar kalimantan bekuk',pontianak,3/5/2013
+'polisi tangkap derek liar peras kendara',metro,''
+'pulang sekolah siswa sma tusuk siswa lapang bola',ambon,13/8/2015
+'sengat pom bensin sopir truk tewas',pekanbaru,8/8/2015
+'polisi tangani 600 jahat online',metro,15/4/2013
+'jasad nelayan korban bom ikan temu',bintan,23/5
+'monas tewas sengat','jakarta pusat',20/4
+'muda gresik temu tewas taman palem','jakarta pusat',4/5
+'jual es balok tewas gorok',bogor,27/5/2013
+'anggota tni tewas tol selidik','jakarta timur',''
+'tujuh hilang guru sma temu rangka','maluku tengah',6/8/2015
+'makam suku dayak kayan rusak jarah',bulungan,''
+'rugi negara 22 usaha tambang kpk',bangka,''
+'bareskrim polri gerebek judi online',medan,1/5
+'anggota tni temu tewas pinggir','jakarta timur',20/4
+'serang epilepsi siswa sd tewas apung','timor tengah utara',22/8/2015
+'tenggelam danau curi temu tewas',pelalawan,23/11/2015
+'kompor oknum lsm 2 kampung libat bentrok',serang,15/8/2015
+'bandara ngurah rai gunung raung erupsi',makassar,8/8/2015
+'hujan angin baliho sby praspa tnipolri ambruk',surabaya,2/7/2013
+'tambang emas tewas racun','batang hari',16/5
+'basri izin lapas kabur',palu,19/4/2013
+'6 anggota komite eksekutif skors 10',medan,24/4/2013
+'duga palsu dukung calon bupati kukar polisi','kutai kartanegara',7/8/2015
+'djohar arifin polda',bengkulu,17/5
+'32 tewas 190 cedera festival air myanmar',baru,''
+'wartawan korban pukul suporter persis solo',yogyakarta,27/4
+'polisi kaltim sita batu bara ilegal',samarinda,13/4
+'polres pasaman tambang emas ilegal','pasaman barat',''
+'gelap raskin',garut,13/6/2013
+'aparat tni gerebek gudang oplos beras raskin',bogor,14/8/2015
+'jalur kereta tanah ambruk kubur','',''
+'tanah banyuresmi terbelah',sumedang,1/5
+'polisi bali palak turis hukum kurung','',16/4
+'polantas palak bule bali kurung 21','',16/4/2013
+'hukum bocah bunuh main timbang',bekasi,25/4
+'sidang bunuh kait oku gelar maraton',palembang,29/4/2013
+'polisi gelar rekonstruksi polisi perkosa tahan',poso,22/5/2013
+'korban potong burung kena pasal cabul',depok,21/5/2013
+'tahan hambalang tunggu audit bpk','',''
+'tni polri saksi sidang oku',palembang,25/4
+'lerai tikai waykanan pj kapolsek kabar luka',jambi,16/4
+'dakwa rusuh bebas syiah kecewa',sampang,16/4/2013
+'bawa narkoba wisatawan jerman vonis 5 bui',denpasar,8/5/2013
+'jerman selundup hasis vonis umur',mataram,''
+'bunuh pacar calon mertua anggota tni vonis mati',bandung,24/4
+'ma vonis mati mutilasi ibu anak','jakarta utara',30/4
+'dakwa bunuh siswa sma 6 penjara 7','jakarta selatan',27/5/2013
+'seleweng raskin kades perempuan tuntut 5 penjara',pamekasan,14/8/2015
+'bahrain hukum 6 tulis kicau twitter','',15/5/2013
+'andika eks kangen band vonis 7 penjara','',24/4
+'rusak patung hukum sembilan kurung','lampung selatan',18/4
+'jpu tuntut dakwa bom beiji maksimal 12 penjara',depok,27/5
+'bisnis palsu ktp bongkar bekuk',jember,14/8/2015
+'bobol brankas pt htm udin muka keset kaki','',13/8/2015
+'pria tangkap bobol skk migas','',14/8/2015
+'bank cimb bobol maling',jambi,''
+'polisi gadungan peras remaja pacar',bogor,5/5/2013
+'wartawan gadungan peras pns pemda dki','jakarta selatan',9/7
+'kakek renta tega cabuli 5 bocah asah',asahan,26/4/2013
+'rekam cctv pelaku todong bekuk aparat','rokan hilir',23/8/2015
+'sekap mahasiswi berlian buru',bandung,15/6/2013
+'kemendag sita puluh blackberry ilegal','',27/5
+'suami tangkap polisi ibu tangga amuk','rokan hulu',''
+'tni au lanud bentrok',palembang,24/4
+'jasa raharja bayar biaya rawat korban lion air',denpasar,15/4
+'polisi tembak mati bandar narkoba deliserdang',medan,24/5/2013
+'bandar narkoba bacok rampas senjata polisi',bangkalan,20/4
+'bandar narkoba bacok polisi',surabaya,20/4/2013
+'bacok 17 tumpang kapal lambelu',purbalingga,4/5/2013
+'abk km wahyu tembak air batam',karimun,''
+'patroli gabung aimas dihadang anggota tni luka',sorong,''
